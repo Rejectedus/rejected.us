@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jkup/rejected.us/issues"
   },
-  "homepage": "https://github.com/jkup/rejected.us#readme"
+  "homepage": "https://github.com/jkup/rejected.us#readme",
+  "dependencies": {
+    "hapi": "^11.1.2"
+  }
 }
