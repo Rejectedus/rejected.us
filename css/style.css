@@ -11,12 +11,20 @@ header {
 	background-color: #3f51b5;
 	color: #FFF;
 	height: 100px;
-	line-height: 100px;
 	z-index: 100;
 }
 
-header .title {
-	line-height: 55px;
+header span {
+  color: #E0E0E0;
+}
+
+header span a {
+  color: #FF9800;
+}
+
+header span a:hover {
+  color: #FFC107;
+  text-decoration: none;
 }
 
 .Rejections {
@@ -41,7 +49,7 @@ header .title {
   left: 38%;
 }
 
-.Rejection-Title--Handle a {
+a {
   color: #2196F3;
 }
 
