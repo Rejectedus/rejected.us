@@ -10,25 +10,25 @@ header {
 	left: 0;
 	background-color: #3f51b5;
 	color: #FFF;
-	height: 100px;
+	height: 125px;
 	z-index: 100;
 }
 
-header span {
+header div {
   color: #E0E0E0;
 }
 
-header span a {
+header div a {
   color: #FF9800;
 }
 
-header span a:hover {
+header div a:hover {
   color: #FFC107;
   text-decoration: none;
 }
 
 .Rejections {
-	margin: 150px 25px;
+	margin: 175px 25px;
 }
 
 .Rejection {
