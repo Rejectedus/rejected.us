@@ -41,12 +41,16 @@ header div a:hover {
 	width: 325px;
 }
 
-.Rejection--width2 {
-  width: 650px;
-}
+@media only screen and (min-width: 650px) {
 
-.Rejection--width2 .Rejection-Profile {
-  left: 38%;
+  .Rejection--width2 {
+    width: 650px;
+  }
+
+  .Rejection--width2 .Rejection-Profile {
+    left: 38%;
+  }
+
 }
 
 a {
