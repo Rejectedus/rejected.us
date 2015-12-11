@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/jkup/rejected.us/issues"
   },
-  "homepage": "https://github.com/jkup/rejected.us#readme"
+  "homepage": "https://github.com/jkup/rejected.us#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-react-views": "^0.9.0",
+    "react": "^0.14.3"
+  }
 }
