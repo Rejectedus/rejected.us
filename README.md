@@ -4,7 +4,7 @@ The codebase for rejected.us
 
 ## Screenshot
 
-![Rejected.us Screenshot](/img/screenshot.png)
+![Rejected.us Screenshot](/public/img/screenshot.png)
 
 ## Contributing
 
