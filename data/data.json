@@ -1,0 +1,18 @@
+{
+  "stories": [
+    {
+      "fullName": "Kyle Simpson",
+      "handle": "getify",
+      "bio": "Author of You Don't Know JS",
+      "avatar": "getify.png",
+      "story": "Major social network company rejected me after an interview with, \"We didn't think you knew enough JS.\""
+    },
+    {
+      "fullName": "Chris Wanstrath",
+      "handle": "defunkt",
+      "bio": "CEO, Github",
+      "avatar": "defunkt.jpeg",
+      "story": "Before cofounding GitHub I applied for an engineering job at Yahoo and didn’t get it. Don’t let other people discourage you."
+    }
+  ]
+}

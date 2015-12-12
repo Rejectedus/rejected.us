@@ -1,9 +1,16 @@
 var React = require('react');
+var DefaultLayout = require('./default');
 
-var HelloMessage = React.createClass({
+var Rejections = React.createClass({
   render: function() {
-    return <div>Hello {this.props.name}</div>;
+    var rows = [];
+    this.props.stories.forEach(function(story) {
+      rows.push(story.fullName);
+    });
+    return (
+      <DefaultLayout>{rows}</DefaultLayout>
+    )
   }
 });
 
-module.exports = HelloMessage;
+module.exports = Rejections;
