@@ -12,7 +12,7 @@ var Rejections = React.createClass({
   render: function() {
     var rejections = this.props.stories.map(function(story) {
       return (
-        <div className="grid-item Rejection">
+        <div className={(story.double) ? 'grid-item Rejection Rejection--width2' : 'grid-item Rejection'}>
           <div className="Rejection-Title">
             <h3 className="Rejection-Title--FullName">
               {story.fullName}

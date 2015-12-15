@@ -37,6 +37,7 @@ var DefaultLayout = React.createClass({
           <div className="grid text-center Rejections">{this.props.children}</div>
           <script src="/js/masonry.js"></script>
           <script src="/js/script.js"></script>
+          <script src="/js/googleAnalytics.js"></script>
         </body>
       </html>
     );
