@@ -271,6 +271,14 @@
       "avatar": "sebastianbk.jpg",
       "story": "While finishing up my master's degree I was sending out tons of applications to big corps for software development jobs but I was rejected by virtually all of them. One week I was rejected by two companies I really wanted to work for so I was sad and got drunk in the weekend. The following Monday I had an offer from Microsoft sitting in my inbox.",
       "double": true
+    },
+    {
+      "fullName": "Ian Devlin",
+      "handle": "iandevlin",
+      "bio": "Trivago",
+      "avatar": "iandevlin.jpg",
+      "story": "Rejected by the Google HTML5 Developer Expert programme for not knowing enough about HTML5. Apparently being one of the HTML5 Doctors, writing many articles on the subject and having a book on HTML5 Multimedia being published wasn't enough for them.",
+      "double": false
     }
   ]
 }
