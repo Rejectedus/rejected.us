@@ -2,7 +2,7 @@
   "stories": [
     {
       "fullName": "Kyle Simpson",
-      "handle": "@getify",
+      "handle": "getify",
       "bio": "Author of You Don't Know JS",
       "avatar": "getify.png",
       "story": "Major social network company rejected me after an interview with, \"We didn't think you knew enough JS.\"",
@@ -10,7 +10,7 @@
     },
     {
       "fullName": "Chris Wanstrath",
-      "handle": "@defunkt",
+      "handle": "defunkt",
       "bio": "CEO, Github",
       "avatar": "defunkt.jpeg",
       "story": "Before cofounding GitHub I applied for an engineering job at Yahoo and didn’t get it. Don’t let other people discourage you.",
@@ -18,7 +18,7 @@
     },
     {
       "fullName": "Jon Kuperman",
-      "handle": "@jkup",
+      "handle": "jkup",
       "bio": "Twitter",
       "avatar": "jkup.jpeg",
       "story": "I was rejected from 10 unpaid internships. Now I work at Twitter.",
@@ -26,7 +26,7 @@
     },
     {
       "fullName": "Brian Holt",
-      "handle": "@holtbt",
+      "handle": "holtbt",
       "bio": "Netflix",
       "avatar": "holtbt.jpg",
       "story": "Rejected by LinkedIn for not knowing enough JS. Couldn't even get a phone screen with Google or Twitter. Went on to work for reddit and now Netflix.",
@@ -34,7 +34,7 @@
     },
     {
       "fullName": "Juriy Zaytsev",
-      "handle": "@kangax",
+      "handle": "kangax",
       "bio": "Facebook",
       "avatar": "kangax.png",
       "story": "Fun fact: I did Google interview and was told I'm not that good of a JS developer :) So that's out of the way",
@@ -42,7 +42,7 @@
     },
     {
       "fullName": "Alex Sexton",
-      "handle": "@SlexAxton",
+      "handle": "SlexAxton",
       "bio": "Stripe",
       "avatar": "slexaxton.jpg",
       "story": "I didn't get past the Twitter phone screen. Not in the beginning of my career, like 3 years ago.",
@@ -50,7 +50,7 @@
     },
     {
       "fullName": "Chad Etzel",
-      "handle": "@jazzychad",
+      "handle": "jazzychad",
       "bio": "Apple",
       "avatar": "jazzychad.jpg",
       "story": "I was rejected from Slack the day after an onsite interview. Three days later I had an offer from Apple.",
@@ -58,7 +58,7 @@
     },
     {
       "fullName": "Eric Rosenberg",
-      "handle": "@DrJorts",
+      "handle": "DrJorts",
       "bio": "Twitter",
       "avatar": "drjorts.jpg",
       "story": "I was rejected without interview at Dropbox. Escorted out halfway through my Microsoft interview. Now I'm senior eng at Twitter.",
@@ -66,7 +66,7 @@
     },
     {
       "fullName": "Thomas Hunter",
-      "handle": "@tlhunter",
+      "handle": "tlhunter",
       "bio": "Open Table",
       "avatar": "tlhunter.jpg",
       "story": "A year and a half after being rejected by a popular payment gateway company I finally got my senior software title at a company where I write ES6 all day.",
@@ -74,7 +74,7 @@
     },
     {
       "fullName": "Nick Morgan",
-      "handle": "@skilldrick",
+      "handle": "skilldrick",
       "bio": "Twitter",
       "avatar": "skilldrick.jpg",
       "story": "Facebook rejected me just before Twitter hired me. I was very junior then though, so don't really blame them.",
@@ -82,7 +82,7 @@
     },
     {
       "fullName": "Anne-Gaelle Colom",
-      "handle": "@agcolom",
+      "handle": "agcolom",
       "bio": "jQuery",
       "avatar": "agcolom.png",
       "story": "I was refused a reference by my supervisor in France who thought the male student on my team did all the work.",
@@ -90,7 +90,7 @@
     },
     {
       "fullName": "Kelly King",
-      "handle": "@kng",
+      "handle": "kng",
       "bio": "Twitter",
       "avatar": "kng.jpeg",
       "story": "I was rejected by YouTube and Pinterest before landing an awesome role at Twitter.",
@@ -98,7 +98,7 @@
     },
     {
       "fullName": "Sam Maskell",
-      "handle": "@samuelmaskell",
+      "handle": "samuelmaskell",
       "bio": "Twitter",
       "avatar": "samuelmaskell.jpeg",
       "story": "Over the course of 9 months, I had tons of interviews, most of which I thought went very well, and I just kept getting rejected. I was ready to drastically lower my bar. Then, within about 5 days, I got an offer from both Twitter and Amazon.",
@@ -106,7 +106,7 @@
     },
     {
       "fullName": "Vikas Gorur",
-      "handle": "@vikasgorur",
+      "handle": "vikasgorur",
       "bio": "Twitter",
       "avatar": "vikasgorur.jpg",
       "story": "Got rejected by a storage startup despite having extremely relevant experience. Interview was 5 whiteboard coding problems.",
@@ -114,7 +114,7 @@
     },
     {
       "fullName": "Esten",
-      "handle": "@esten",
+      "handle": "esten",
       "bio": "Twitter",
       "avatar": "esten.jpg",
       "story": "I had an interview with Scribd, who I really liked at the time, and totally bombed. Blanked out on writing a linked list in Python.",
@@ -122,7 +122,7 @@
     },
     {
       "fullName": "Ben Sangster",
-      "handle": "@sangster",
+      "handle": "sangster",
       "bio": "Twitter",
       "avatar": "sangster.jpg",
       "story": "I was rejected at Amazon and other companies with no technical interviews because I wasn't a Java engineer.",
@@ -130,7 +130,7 @@
     },
     {
       "fullName": "Miguel Rios",
-      "handle": "@miguelrios",
+      "handle": "miguelrios",
       "bio": "Twitter",
       "avatar": "miguelrios.jpg",
       "story": "Before Twitter, I was rejected twice by big tech co, which only interviewed me cuz I had a scholarship they gave to Latino students.",
@@ -138,7 +138,7 @@
     },
     {
       "fullName": "Max Howell",
-      "handle": "@mxcl",
+      "handle": "mxcl",
       "bio": "Apple",
       "avatar": "mxcl.png",
       "story": "Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.",
@@ -146,7 +146,7 @@
     },
     {
       "fullName": "Bryan English",
-      "handle": "@bengl",
+      "handle": "bengl",
       "bio": "Yahoo",
       "avatar": "bengl.png",
       "story": "Rejected by Google, Twitter, Square and Airbnb for bombing the on-site onslaughts of technical mindbogglery. One startup even cut me out mid-interview one time (can't remember which one). Now I'm at Yahoo doing npm things, which is a pretty sweet gig.",
@@ -154,7 +154,7 @@
     },
     {
       "fullName": "Myles Borins",
-      "handle": "@thealphanerd",
+      "handle": "thealphanerd",
       "bio": "IBM",
       "avatar": "thealphanerd.jpg",
       "story": "First time interviewing I didn't get past the phone screen at google, twitter, or a number of other places. A startup offered me a 10 week internship way below market rate. I held out and got a decent job at Famous Industries where I got a ton of excellent opportunities.",
@@ -162,7 +162,7 @@
     },
     {
       "fullName": "Kevin van Zonneveld",
-      "handle": "@kvz",
+      "handle": "kvz",
       "bio": "Transloadit",
       "avatar": "kvz.png",
       "story": "I was phone-screened by Google late 2010. I was nervous and unhappy with my performance but they never shared honest feedback or gave me a chance to set things straight.",
@@ -170,7 +170,7 @@
     },
     {
       "fullName": "Brandon Weis",
-      "handle": "@brandonweis",
+      "handle": "brandonweis",
       "bio": "Cirqle",
       "avatar": "brandonweis.jpeg",
       "story": "Rejected by Zenefits for not being expressive enough in implementing JavaScript serialized execution of async functions using callback. Got offered a senior position but didn't get it due to no work authorization. Both happened in the same afternoon. Still not giving up.",
@@ -178,7 +178,7 @@
     },
     {
       "fullName": "Zachary Forrest y Salazar",
-      "handle": "@zdfs",
+      "handle": "zdfs",
       "bio": "Sonos",
       "avatar": "zdfs.jpg",
       "story": "Was rejected by Netflix, Twitter and TuneIn. Now I work at Sonos.",
