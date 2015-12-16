@@ -255,6 +255,14 @@
       "avatar": "lloydwatkin.jpg",
       "story": "I was rejected by a top 10 website because I don't use semi-colons in my JavaScript. Now at IMDb / Amazon. Don't let them get you down :)",
       "double": false
+    },
+    {
+      "fullName": "Michael Shao",
+      "handle": "abr71310",
+      "bio": "Amazon",
+      "avatar": "abr71310.jpg",
+      "story": "I got turned away from every return offer from internships I had (7), as well as 85 companies I applied to for full-time (even after getting to onsites for over 15 of them!). I now work at Amazon and love what I'm doing. :)",
+      "double": false
     }
   ]
 }
