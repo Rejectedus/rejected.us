@@ -311,6 +311,14 @@
       "avatar": "geddski.jpeg",
       "story": "I totally bombed an interview at Trello about implementing linked lists in JavaScript. Today I’m a JS Architect at Domo.",
       "double": false
+    },
+    {
+      "fullName": "Jake Johnson",
+      "handle": "xyclos",
+      "bio": "OSS",
+      "avatar": "xyclos.jpeg",
+      "story": "I was rejected by Amazon. I waited around for an hour for a phone interview with their \"head of acquisitions\". He emailed me later that night saying he didn't have my phone number. My number was in the email he replied to 😒. He ignored all my attempts to reschedule.",
+      "double": false
     }
   ]
 }
