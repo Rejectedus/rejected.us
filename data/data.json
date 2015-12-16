@@ -263,6 +263,14 @@
       "avatar": "abr71310.jpg",
       "story": "I got turned away from every return offer from internships I had (7), as well as 85 companies I applied to for full-time (even after getting to onsites for over 15 of them!). I now work at Amazon and love what I'm doing. :)",
       "double": false
+    },
+    {
+      "fullName": "Sebastian Brandes Kraaijenzank",
+      "handle": "sebastianbk",
+      "bio": "Microsoft",
+      "avatar": "sebastianbk.jpg",
+      "story": "While finishing up my master's degree I was sending out tons of applications to big corps for software development jobs but I was rejected by virtually all of them. One week I was rejected by two companies I really wanted to work for so I was sad and got drunk in the weekend. The following Monday I had an offer from Microsoft sitting in my inbox.",
+      "double": true
     }
   ]
 }
