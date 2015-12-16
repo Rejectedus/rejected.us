@@ -1,6 +1,6 @@
 # They rejected us
 
-The codebase for rejected.us
+The codebase for [rejected.us](rejected.us)
 
 ## Screenshot
 
