@@ -215,6 +215,22 @@
       "avatar": "mikemaccana.jpg",
       "story": "Got rejected by Google and within a few months was working there as a contractor. Later one of my projects was used in their recruiting ads as the kind of awesome work you can do at Google.",
       "double": false
+    },
+    {
+      "fullName": "Shaun LeBron",
+      "handle": "shaunlebron",
+      "bio": "OSS",
+      "avatar": "shaunlebron.jpg",
+      "story": "I wondered what I was really worth after getting rejected by two silicon valley startups. So I decided to stop giving up on my side projects.",
+      "double": false
+    },
+    {
+      "fullName": "Ralph Holzmann",
+      "handle": "rlph",
+      "bio": "Vine",
+      "avatar": "rlph.jpg",
+      "story": "I failed an interview at eGain for not knowing all the options on $.ajax. Went on to work for Bitovi and now Twitter / Vine.",
+      "double": false
     }
   ]
 }
