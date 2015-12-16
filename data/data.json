@@ -183,6 +183,14 @@
       "avatar": "zdfs.jpg",
       "story": "Was rejected by Netflix, Twitter and TuneIn. Now I work at Sonos.",
       "double": false
+    },
+    {
+      "fullName": "Charlie Robbins",
+      "handle": "indexzero",
+      "bio": "GoDaddy",
+      "avatar": "indexzero.jpg",
+      "story": "Was rejected by Google in New York in 2007 because I could not figure out how to list all subsets of a set correctly. I founded Nodejitsu and now work at GoDaddy.",
+      "double": false
     }
   ]
 }
