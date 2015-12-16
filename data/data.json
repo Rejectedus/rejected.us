@@ -287,6 +287,14 @@
       "avatar": "grmpyprogrammer.jpg",
       "story": "I interviewed at Mozilla in 2008. I ran a gauntlet of 10 interviews in 8 hours. Didn’t get it. Ended up there Nov. 2015 anyway ;)",
       "double": false
+    },
+    {
+      "fullName": "Rey Bango",
+      "handle": "reybango",
+      "bio": "Microsoft",
+      "avatar": "reybango.jpeg",
+      "story": "I was rejected by Arthur Andersen Consulting in the '90s because I didn't have an undergraduate degree and also by a number of well-known Silicon Valley companies because I couldn't relocate. Since then I've worked at great companies like Mozilla, Telerik & Microsoft, all remotely and with no undergrad degree.",
+      "double": true
     }
   ]
 }
