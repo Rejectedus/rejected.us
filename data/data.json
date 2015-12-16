@@ -175,6 +175,14 @@
       "avatar": "brandonweis.jpeg",
       "story": "Rejected by Zenefits for not being expressive enough in implementing JavaScript serialized execution of async functions using callback. Got offered a senior position but didn't get it due to no work authorization. Both happened in the same afternoon. Still not giving up.",
       "double": false
+    },
+    {
+      "fullName": "Zachary Forrest y Salazar",
+      "handle": "@zdfs",
+      "bio": "Sonos",
+      "avatar": "zdfs.jpg",
+      "story": "Was rejected by Netflix, Twitter and TuneIn. Now I work at Sonos.",
+      "double": false
     }
   ]
 }
