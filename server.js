@@ -13,9 +13,9 @@ app.engine('jsx', require('express-react-views').createEngine());
 
 app.get('/', function(req, res) {
   const data = JSON.parse(fs.readFileSync('data/data.json', 'utf8'));
-  res.render('index', { title: "The Rejected Us.", stories: shuffle(data.stories) });
+  res.render('index', { title: "They Rejected Us.", stories: shuffle(data.stories) });
 });
 
 var server = app.listen(8080, function () {
-  console.log('Example app listening at http://localhost:8080');
+  console.log('Listening at http://localhost:8080');
 });
