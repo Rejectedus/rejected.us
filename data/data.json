@@ -231,6 +231,22 @@
       "avatar": "rlph.jpg",
       "story": "I failed an interview at eGain for not knowing all the options on $.ajax. Went on to work for Bitovi and now Twitter / Vine.",
       "double": false
+    },
+    {
+      "fullName": "Adam Reineke",
+      "handle": "AdamTReineke",
+      "bio": "Microsoft",
+      "avatar": "AdamTReineke.jpeg",
+      "story": "At a college career fair, a Midwest healthcare company handed my resume back because GPA was too low, saying \"save the paper\". I went on to spend two great internships at Microsoft where I've continued full-time for over two years now.",
+      "double": true
+    },
+    {
+      "fullName": "Sinan Midillili",
+      "handle": "Sinanm89",
+      "bio": "OSS",
+      "avatar": "Sinanm89.jpg",
+      "story": "A swedish startup company dropped from skype mid call after I told them I was born in Turkey. Im still blocked to this day.",
+      "double": false
     }
   ]
 }
