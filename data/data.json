@@ -191,6 +191,30 @@
       "avatar": "indexzero.jpg",
       "story": "Was rejected by Google in New York in 2007 because I could not figure out how to list all subsets of a set correctly. I founded Nodejitsu and now work at GoDaddy.",
       "double": false
+    },
+    {
+      "fullName": "John-David Dalton",
+      "handle": "jdalton",
+      "bio": "Microsoft",
+      "avatar": "jdalton.jpeg",
+      "story": "I was rejected by Google, Mozilla, and Twitter before being hired by Microsoft. No regrets.",
+      "double": false
+    },
+    {
+      "fullName": "Sebastian McKenzie",
+      "handle": "sebmck",
+      "bio": "Facebook",
+      "avatar": "sebmck.jpg",
+      "story": "Got rejected from a junior position at Atlassian for not knowing enough about JavaScript. Shortly after they now use the JavaScript compiler that I wrote across most of their JavaScript stack.",
+      "double": false
+    },
+    {
+      "fullName": "Mike MacCana",
+      "handle": "mikemaccana",
+      "bio": "CertSimple",
+      "avatar": "mikemaccana.jpg",
+      "story": "Got rejected by Google and within a few months was working there as a contractor. Later one of my projects was used in their recruiting ads as the kind of awesome work you can do at Google.",
+      "double": false
     }
   ]
 }
