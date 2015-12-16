@@ -295,6 +295,14 @@
       "avatar": "reybango.jpeg",
       "story": "I was rejected by Arthur Andersen Consulting in the '90s because I didn't have an undergraduate degree and also by a number of well-known Silicon Valley companies because I couldn't relocate. Since then I've worked at great companies like Mozilla, Telerik & Microsoft, all remotely and with no undergrad degree.",
       "double": true
+    },
+    {
+      "fullName": "Derick Bailey",
+      "handle": "derickbailey",
+      "bio": "WatchMeCode",
+      "avatar": "derickbailey.jpeg",
+      "story": "I was told by a hiring manager at Netflix that my career would be over if I wasn't willing to relocate my family to San Francisco. Since then, I've had 2 full time jobs that were 100% remote (work from home), have been a full time consultant with clients around the world (Germany, Japan, Denmark, South America, Canada, and all over the U.S.) Now, I'm an entrepreneur as well as consultant, I work less hours than any full time job I've ever had, and I earn more than ever.",
+      "double": true
     }
   ]
 }
