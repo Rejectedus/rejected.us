@@ -279,6 +279,14 @@
       "avatar": "iandevlin.jpg",
       "story": "Rejected by the Google HTML5 Developer Expert programme for not knowing enough about HTML5. Apparently being one of the HTML5 Doctors, writing many articles on the subject and having a book on HTML5 Multimedia being published wasn't enough for them.",
       "double": false
+    },
+    {
+      "fullName": "Chris Hartjes",
+      "handle": "grmpyprogrammer",
+      "bio": "Mozilla",
+      "avatar": "grmpyprogrammer.jpg",
+      "story": "I interviewed at Mozilla in 2008. I ran a gauntlet of 10 interviews in 8 hours. Didn’t get it. Ended up there Nov. 2015 anyway ;)",
+      "double": false
     }
   ]
 }
