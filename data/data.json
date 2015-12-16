@@ -319,6 +319,14 @@
       "avatar": "xyclos.jpeg",
       "story": "I was rejected by Amazon. I waited around for an hour for a phone interview with their \"head of acquisitions\". He emailed me later that night saying he didn't have my phone number. My number was in the email he replied to 😒. He ignored all my attempts to reschedule.",
       "double": false
+    },
+    {
+      "fullName": "Rachel White",
+      "handle": "ohhoe",
+      "bio": "IBM",
+      "avatar": "ohhoe.jpg",
+      "story": "When I graduated from a less than desirable college, no employers in New York would take me seriously... so I moved to St. Louis. Everyone in the midwest didn't care where I went to school, and instead I was highly in demand as a developer with a design background. I worked in agencies for 3 years, until I got a job offer from Adobe and moved back to NYC. Now I'm at IBM Watson, and it's the best.",
+      "double": true
     }
   ]
 }
