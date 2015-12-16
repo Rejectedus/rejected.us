@@ -327,6 +327,14 @@
       "avatar": "ohhoe.jpg",
       "story": "When I graduated from a less than desirable college, no employers in New York would take me seriously... so I moved to St. Louis. Everyone in the midwest didn't care where I went to school, and instead I was highly in demand as a developer with a design background. I worked in agencies for 3 years, until I got a job offer from Adobe and moved back to NYC. Now I'm at IBM Watson, and it's the best.",
       "double": true
+    },
+    {
+      "fullName": "Spencer Gibb",
+      "handle": "spencerbgibb",
+      "bio": "Pivotal",
+      "avatar": "spencerbgibb.jpg",
+      "story": "Interviewed at Netflix, didn't get the job. At Pivotal, I helped create Spring Cloud Netflix which integrates Netflix Open Source with Spring Boot. Now Netflix uses Spring Cloud Netflix... at Netflix.",
+      "double": false
     }
   ]
 }
