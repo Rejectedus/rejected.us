@@ -12,7 +12,7 @@ var DefaultLayout = React.createClass({
     return (
       <html>
         <head>
-          <meta charset="utf-8"></meta>
+          <meta charSet="utf-8"></meta>
 
           <title>{this.props.title}</title>
 

@@ -247,6 +247,14 @@
       "avatar": "Sinanm89.jpg",
       "story": "A swedish startup company dropped from skype mid call after I told them I was born in Turkey. Im still blocked to this day.",
       "double": false
+    },
+    {
+      "fullName": "Lloyd Watkin",
+      "handle": "lloydwatkin",
+      "bio": "IMDB",
+      "avatar": "lloydwatkin.jpg",
+      "story": "I was rejected by a top 10 website because I don't use semi-colons in my JavaScript. Now at IMDb / Amazon. Don't let them get you down :)",
+      "double": false
     }
   ]
 }
