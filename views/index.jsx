@@ -24,7 +24,7 @@ var Rejections = React.createClass({
             (<span className="Rejection-Bio">{story.bio}</span>)
             <span> </span>
           </div>
-          <img className="Rejection-Profile" alt="Jkup" src={"/img/" + story.avatar} />
+          <img className="Rejection-Profile" alt={story.handle} src={"/img/" + story.avatar} />
           <p>{story.story}</p>
         </div>
       )
