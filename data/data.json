@@ -143,6 +143,38 @@
       "avatar": "mxcl.png",
       "story": "Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.",
       "double": true
+    },
+    {
+      "fullName": "Bryan English",
+      "handle": "@bengl",
+      "bio": "Yahoo",
+      "avatar": "bengl.png",
+      "story": "Rejected by Google, Twitter, Square and Airbnb for bombing the on-site onslaughts of technical mindbogglery. One startup even cut me out mid-interview one time (can't remember which one). Now I'm at Yahoo doing npm things, which is a pretty sweet gig.",
+      "double": true
+    },
+    {
+      "fullName": "Myles Borins",
+      "handle": "@thealphanerd",
+      "bio": "IBM",
+      "avatar": "thealphanerd.jpg",
+      "story": "First time interviewing I didn't get past the phone screen at google, twitter, or a number of other places. A startup offered me a 10 week internship way below market rate. I held out and got a decent job at Famous Industries where I got a ton of excellent opportunities.",
+      "double": false
+    },
+    {
+      "fullName": "Kevin van Zonneveld",
+      "handle": "@kvz",
+      "bio": "Transloadit",
+      "avatar": "kvz.png",
+      "story": "I was phone-screened by Google late 2010. I was nervous and unhappy with my performance but they never shared honest feedback or gave me a chance to set things straight.",
+      "double": false
+    },
+    {
+      "fullName": "Brandon Weis",
+      "handle": "@brandonweis",
+      "bio": "Cirqle",
+      "avatar": "brandonweis.jpeg",
+      "story": "Rejected by Zenefits for not being expressive enough in implementing JavaScript serialized execution of async functions using callback. Got offered a senior position but didn't get it due to no work authorization. Both happened in the same afternoon. Still not giving up.",
+      "double": false
     }
   ]
 }

@@ -14,14 +14,16 @@ var Rejections = React.createClass({
       return (
         <div className={(story.double) ? 'grid-item Rejection Rejection--width2' : 'grid-item Rejection'}>
           <div className="Rejection-Title">
-            <h3 className="Rejection-Title--FullName">
+            <h4 className="Rejection-Title--FullName">
               {story.fullName}
-              <span className="Rejection-Title--Handle">
-                <a target="_blank" href="https://twitter.com/getify">{story.handle}</a>
-              </span>
-            </h3>
+            </h4>
           </div>
-          <div className="Rejection-Bio">{story.bio}</div>
+          <div className="Rejection-Title--Handle">
+            <a target="_blank" href="https://twitter.com/getify">{story.handle}</a>
+            <span> </span>
+            (<span className="Rejection-Bio">{story.bio}</span>)
+            <span> </span>
+          </div>
           <img className="Rejection-Profile" alt="Jkup" src={"/img/" + story.avatar} />
           <p>{story.story}</p>
         </div>
