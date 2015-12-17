@@ -484,6 +484,15 @@
       "bio": "OSS",
       "avatar": "jokoon.jpeg",
       "story": "I was rejected by ubisoft, bull/amesys, and dozen of other tech companies, because I don't have experience in java, .net, while I'm skilled in C/C++, python, linux. I went through many tests, including IQ (125) and programming tests.\nStill unemployed. Have given up, but I still intend to make a tiny game, if I can find the motivation.",
+      "double": true
+    },
+    {
+      "fullName": "Peter Kim",
+      "handle": "pkayfire",
+      "website": "https://github.com/pkayfire",
+      "bio": "OSS",
+      "avatar": "pkayfire.jpeg",
+      "story": "Rejected by AngelList because I froze up during an interview and forgot the fibonacci sequence (seriously). Received an offer from Stripe a month later. Now cofounder at a top 500 US site. Never ever give up.",
       "double": false
     }
   ]

@@ -11,6 +11,7 @@ header {
 	background-color: #3f51b5;
 	color: #FFF;
 	height: 135px;
+  z-index: 9;
 }
 
 header div {

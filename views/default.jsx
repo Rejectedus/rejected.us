@@ -5,7 +5,7 @@ var DefaultLayout = React.createClass({
     var githubStyle = {
       fill: "#151513",
       color: "#fff",
-      position: "absolute",
+      position: "fixed",
       top: 0,
       border: 0,
       right: 0,
