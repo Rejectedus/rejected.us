@@ -521,6 +521,15 @@
       "avatar": "lyn.jpg",
       "story": "After bootcamp, I was rejected over 50 times in three months by companies like Pandora, Twilio, and Zendesk for not having enough experience. Received an offer with an amazing company and now I motivated youth and others like me to succeed. Never let anyone tell you that you're not worthy. Keep going.",
       "double": false
+    },
+    {
+      "fullName": "Robert Wilkins",
+      "handle": "rwilki ",
+      "website": "https://github.com/rwilki ",
+      "bio": "Self Employed",
+      "avatar": "rwilki.jpeg",
+      "story": "I submitted applications to Sucuri, Buffer, and Road Runner Sports in hopes of furthering my career as a web and graphic designer. Ultimately, my career path has evolved just fine as I'm busier now more than ever working for myself. I'm challenged, rewarded, and love what I do. If I could manage the stress, it would be all good.",
+      "double": false
     }
   ]
 }
