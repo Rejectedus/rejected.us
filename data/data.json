@@ -458,6 +458,15 @@
       "avatar": "rajatonit.jpg",
       "story": "Was rejected by many companies which one of them was AutoDesk whom escorted me out of their office midway through the interview for having more knowledge of java over C++. I kept at it and now work at BlackBerry as my job. #StickWithIt",
       "double": false
+    },
+    {
+      "fullName": "Patrick Haney",
+      "handle": "notasausage",
+      "website": "https://twitter.com/notasausage",
+      "bio": "OSS",
+      "avatar": "notasausage.jpeg",
+      "story": "Apple interviewed me 4 times for 3 positions, all while I was employed at Harvard University. I even had to talk through designing the \"iStove\" for Steve Jobs and explain how Google Maps worked using a whiteboard. They never hired me and I left Harvard to work for myself a year later.",
+      "double": false
     }
   ]
 }
