@@ -503,6 +503,15 @@
       "avatar": "markmarkoh.jpeg",
       "story": "I was literally asked to leave the office 15 minutes into the interview. The guy said \"I don't think either of us should waste any more of our time\" and turned around to face his computer. I sat in the parking lot for 30 minutes thinking I'd never be a developer.",
       "double": false
+    },
+    {
+      "fullName": "Adam Sontag",
+      "handle": "ajpiano",
+      "website": "https://twitter.com/ajpiano",
+      "bio": "Bocoup",
+      "avatar": "ajpiano.jpeg",
+      "story": "I wanted to be a professional football player but the New York Jets didn't want me because I couldn't run a sub-4.3 second 40 yard dash. Now I am Director of Community at Bocoup so I like to think I landed on my feet.",
+      "double": false
     }
   ]
 }
