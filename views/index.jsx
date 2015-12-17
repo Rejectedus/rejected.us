@@ -19,7 +19,7 @@ var Rejections = React.createClass({
             </h4>
           </div>
           <div className="Rejection-Title--Handle">
-            <a target="_blank" href={"https://twitter.com/" + story.handle}>@{story.handle}</a>
+            <a target="_blank" href={story.website}>@{story.handle}</a>
             <span> </span>
             (<span className="Rejection-Bio">{story.bio}</span>)
             <span> </span>
