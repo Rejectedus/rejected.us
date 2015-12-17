@@ -467,6 +467,15 @@
       "avatar": "notasausage.jpeg",
       "story": "Apple interviewed me 4 times for 3 positions, all while I was employed at Harvard University. I even had to talk through designing the \"iStove\" for Steve Jobs and explain how Google Maps worked using a whiteboard. They never hired me and I left Harvard to work for myself a year later.",
       "double": false
+    },
+    {
+      "fullName": "Lindsey Campbell",
+      "handle": "_lindseytron",
+      "website": "https://twitter.com/_lindseytron",
+      "bio": "InVision",
+      "avatar": "_lindseytron.jpeg",
+      "story": "Interviewed and rejected by two local startups in medical and education spaces. They talked down to me during my interview, wouldn't respond to emails, and left me hanging. The following week I landed my job at InVision. :)",
+      "double": false
     }
   ]
 }
