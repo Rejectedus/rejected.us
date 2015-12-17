@@ -512,6 +512,15 @@
       "avatar": "ajpiano.jpeg",
       "story": "I wanted to be a professional football player but the New York Jets didn't want me because I couldn't run a sub-4.3 second 40 yard dash. Now I am Director of Community at Bocoup so I like to think I landed on my feet.",
       "double": false
+    },
+    {
+      "fullName": "Scott Kosman",
+      "handle": "humantorch",
+      "website": "https://twitter.com/humantorch",
+      "bio": "adidas",
+      "avatar": "humantorch.jpg",
+      "story": "Survived multiple phone and Skype interviews (from Europe) as well as a take-home developer assignment by Apple. Flew to Cupertino for a round of in-person, highly technical interviews less than 24 hours after a 14 hour flight. Bombed the interview because of jet lag, got my rejection notice 3 hours after leaving 1 Infinite Loop. Am now Technical Director in a production company and have built and lead a team that has won the most FWA and Awwwards Site of the Day wins in 2015 and will soon be moving to a Senior Management role at adidas.",
+      "double": false
     }
   ]
 }
