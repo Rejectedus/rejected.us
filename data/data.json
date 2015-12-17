@@ -351,6 +351,22 @@
       "avatar": "dhananjaynakrani.jpg",
       "story": "During campus-placements in undergrad, interviewed with Samsung-India. Due to favoritism, I was rejected. Almost lost faith from meritocracy. Later got to do Google Summer of Code (Summer'14) and Google Internship (Summer'15). In grad school, received full time offers from both Yahoo & Google. Now, headed to Google for full time. Still, I have a long way to go. ;) My point is, don't lose faith because of a few incidents. Keep working. \"Adventure is out there!\"",
       "double": true
+    },
+    {
+      "fullName": "Angel Colberg",
+      "handle": "angelcolberg",
+      "bio": "Mozilla",
+      "avatar": "angelcolberg.png",
+      "story": "I've been rejected by Google, Apple and FB. Ended up working with Microsoft, Apple, Google and Mozilla. Never take it personal.",
+      "double": false
+    },
+    {
+      "fullName": "Neil Kistner",
+      "handle": "wyze",
+      "bio": "Monsanto",
+      "avatar": "wyze.jpg",
+      "story": "I was rejected by Facebook and Netflix at the technical interview/coding exercises. Now I write ES2015 && React all day at Monsanto.",
+      "double": false
     }
   ]
 }
