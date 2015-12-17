@@ -415,15 +415,6 @@
       "double": false
     },
     {
-      "fullName": "Neil Kistner",
-      "handle": "wyze",
-      "website": "https://twitter.com/wyze",
-      "bio": "Monsanto",
-      "avatar": "wyze.jpg",
-      "story": "I was rejected by Facebook and Netflix at the technical interview/coding exercises. Now I write ES2015 && React all day at Monsanto.",
-      "double": false
-    },
-    {
       "fullName": "Brian Salcedo",
       "handle": "salcedo",
       "website": "https://github.com/salcedo",
