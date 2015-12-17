@@ -512,6 +512,15 @@
       "avatar": "humantorch.jpg",
       "story": "Survived multiple phone and Skype interviews with Apple (from Europe) as well as a take-home developer assignment. Flew to Cupertino for a round of in-person, highly technical interviews less than 24 hours after a 14 hour flight. Got my rejection notice 3 hours afterwards. Ended up as a Director in a production company and am now a Senior Digital Manager at adidas.",
       "double": true
+    },
+    {
+      "fullName": "Lyn Muldrow",
+      "handle": "lynmuldrow",
+      "website": "https://twitter.com/lynmuldrow",
+      "bio": "Front-end Developer",
+      "avatar": "lyn.jpg",
+      "story": "After bootcamp, I was rejected over 50 times in three months by companies like Pandora, Twilio, and Zendesk for not having enough experience. Received an offer with an amazing company and now I motivated youth and others like me to succeed. Never let anyone tell you that you're not worthy. Keep going.",
+      "double": false
     }
   ]
 }
