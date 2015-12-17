@@ -8,4 +8,4 @@ The codebase for [rejected.us](http://rejected.us)
 
 ## Contributing
 
-Thanks for contributing! It's really casual, just send me a PR or open an issue or tweet me [@jkup](https://twitter.com/jkup)!
+Thanks for contributing! It would be awesome if you would open a PR. All of the data is in data/data.json so feel free to just add yours to the end! ( New ones show up at the top of the site ) [@jkup](https://twitter.com/jkup)!
