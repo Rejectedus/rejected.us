@@ -494,6 +494,15 @@
       "avatar": "pkayfire.jpeg",
       "story": "Rejected by AngelList because I froze up during an interview and forgot the fibonacci sequence (seriously). Received an offer from Stripe a month later. Now cofounder at a top 500 US site. Never ever give up.",
       "double": false
+    },
+    {
+      "fullName": "Mark DiMarco",
+      "handle": "markmarkoh",
+      "website": "https://twitter.com/markmarkoh",
+      "bio": "OSS",
+      "avatar": "markmarkoh.jpeg",
+      "story": "I was literally asked to leave the office 15 minutes into the interview. The guy said \"I don't think either of us should waste any more of our time\" and turned around to face his computer. I sat in the parking lot for 30 minutes thinking I'd never be a developer.",
+      "double": false
     }
   ]
 }
