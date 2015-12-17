@@ -413,6 +413,24 @@
       "avatar": "wyze.jpg",
       "story": "I was rejected by Facebook and Netflix at the technical interview/coding exercises. Now I write ES2015 && React all day at Monsanto.",
       "double": false
+    },
+    {
+      "fullName": "Neil Kistner",
+      "handle": "wyze",
+      "website": "https://twitter.com/wyze",
+      "bio": "Monsanto",
+      "avatar": "wyze.jpg",
+      "story": "I was rejected by Facebook and Netflix at the technical interview/coding exercises. Now I write ES2015 && React all day at Monsanto.",
+      "double": false
+    },
+    {
+      "fullName": "Brian Salcedo",
+      "handle": "salcedo",
+      "website": "https://github.com/salcedo",
+      "bio": "OSS",
+      "avatar": "salcedo.jpeg",
+      "story": "Got rejected by Linode because I'm a convicted hacker. Shortly thereafter, I won $50 Linode credit and a Raspberry Pi 2 through a Linode-sponsored challenge on True Ability. They probably think I hacked that too.",
+      "double": false
     }
   ]
 }
