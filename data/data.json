@@ -530,6 +530,15 @@
       "avatar": "rwilki.jpeg",
       "story": "I submitted applications to Sucuri, Buffer, and Road Runner Sports in hopes of furthering my career as a web and graphic designer. Ultimately, my career path has evolved just fine as I'm busier now more than ever working for myself. I'm challenged, rewarded, and love what I do. If I could manage the stress, it would be all good.",
       "double": false
-    }
+    },
+    {
+      "fullName": "Sagar Savla",
+      "handle": "sagz",
+      "website": "http://sagz.in",
+      "bio": "Facebook",
+      "avatar": "sagar.jpg",
+      "story": "As I was finishing my Masters' I applied to so many companies that I was getting a rejection at least once a day. If I search my inbox for the word 'regret', I get over a hundred emails of these rejections. But I kept applying and kept interviewing. I finally got some offers and worked at companies like PayPal, Lyft and Facebook; after a lot of perseverance. You don't have to be great to start, but you have to start to be great.",
+      "double": true
+    },
   ]
 }
