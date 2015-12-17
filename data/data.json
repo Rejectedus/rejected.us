@@ -467,6 +467,15 @@
       "avatar": "_lindseytron.jpeg",
       "story": "Interviewed and rejected by two local startups in medical and education spaces. They talked down to me during my interview, wouldn't respond to emails, and left me hanging. The following week I landed my job at InVision. :)",
       "double": false
+    },
+    {
+      "fullName": "John Slegers",
+      "handle": "johnslegers",
+      "website": "https://twitter.com/johnslegers",
+      "bio": "Creator of Cascade Framework & PHPPowerTools",
+      "avatar": "johnslegers.png",
+      "story": "For frontend developer jobs, I'm usually told I don't have enough design skills. For backend developer jobs, I'm usually told I don't have enough experience in this or that framework. I'm currently unemployed.",
+      "double": false
     }
   ]
 }
