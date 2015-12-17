@@ -440,6 +440,24 @@
       "avatar": "stevenhauser.png",
       "story": "Rejected by GitHub for a frontend developer opening because my HTML, CSS, and JS skills were strong, but I failed to demonstrate my Ruby skills.",
       "double": false
+    },
+    {
+      "fullName": "Ricardo Correa",
+      "handle": "rcorrear",
+      "website": "https://twitter.com/rcorrear",
+      "bio": "OSS",
+      "avatar": "rcorrear.jpg",
+      "story": "After applying for a Senior Development Engineer position at Amazon I get an email from HR for the Senior Cloud Support Engineer position. After two (technical) phone interviews and an 8 hour on-site multi team interview I get back the results: You really did very well in the interviews, but we're not extending an offer because you are a better fit for our Senior Development Engineer position!!",
+      "double": true
+    },
+    {
+      "fullName": "Rajat Arora",
+      "handle": "rajatonit",
+      "website": "https://twitter.com/rajatonit",
+      "bio": "BlackBerry",
+      "avatar": "rajatonit.jpg",
+      "story": "Was rejected by many companies which one of them was AutoDesk whom escorted me out of their office midway through the interview for having more knowledge of java over C++. I kept at it and now work at BlackBerry as my job. #StickWithIt",
+      "double": false
     }
   ]
 }
