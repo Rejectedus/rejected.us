@@ -431,6 +431,15 @@
       "avatar": "salcedo.jpeg",
       "story": "Got rejected by Linode because I'm a convicted hacker. Shortly thereafter, I won $50 Linode credit and a Raspberry Pi 2 through a Linode-sponsored challenge on True Ability. They probably think I hacked that too.",
       "double": false
+    },
+    {
+      "fullName": "Steven Hauser",
+      "handle": "stevenhauser",
+      "website": "https://github.com/stevenhauser",
+      "bio": "OSS",
+      "avatar": "stevenhauser.png",
+      "story": "Rejected by GitHub for a frontend developer opening because my HTML, CSS, and JS skills were strong, but I failed to demonstrate my Ruby skills.",
+      "double": false
     }
   ]
 }
