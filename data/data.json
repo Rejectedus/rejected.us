@@ -539,6 +539,15 @@
       "avatar": "sagar.jpg",
       "story": "As I was finishing my Masters' I applied to so many companies that I was getting a rejection at least once a day. If I search my inbox for the word 'regret', I get over a hundred emails of these rejections. But I kept applying and kept interviewing. I finally got some offers and worked at companies like PayPal, Lyft and Facebook; after a lot of perseverance. You don't have to be great to start, but you have to start to be great.",
       "double": true
+    },
+    {
+      "fullName": "Eray Arslan",
+      "handle": "erayarslan",
+      "website": "http://eray.ninja",
+      "bio": "markakod",
+      "avatar": "eray.jpeg",
+      "story": "Rejected by Valve Software for a Software Engineer position because i was young. (when i was 19)",
+      "double": false
     }
   ]
 }
