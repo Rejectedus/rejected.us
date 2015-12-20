@@ -557,6 +557,15 @@
       "avatar": "samccone.jpeg",
       "story": "I could not even get an unpaid internship at a newspaper because I was going to add too much overhead. 🆒",
       "double": false
+    },
+    {
+      "fullName": "James Kyle",
+      "handle": "thejameskyle",
+      "website": "https://twitter.com/thejameskyle",
+      "bio": "CloudFlare",
+      "avatar": "thejameskyle.jpg",
+      "story": "I always had a poor relationship with my father. Before we stopped talking, he said lots of terrible things to me. He said that I had no future. Three years later, at 21 years old, I had already experienced a ton of professional success. I was making a six figure salary at 20 and traveling around the world to speak at 21. Even better– I've been able to help pay for my mom to finish her masters degree. Fuck you Eric, I'm the shit.",
+      "double": true
     }
   ]
 }
