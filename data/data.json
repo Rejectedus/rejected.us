@@ -548,6 +548,15 @@
       "avatar": "eray.jpeg",
       "story": "Rejected by Valve Software for a Software Engineer position because i was young. (when i was 19)",
       "double": false
+    },
+    {
+      "fullName": "Sam Saccone",
+      "handle": "samccone",
+      "website": "http://samsaccone.com",
+      "bio": "🐐",
+      "avatar": "samccone.jpeg",
+      "story": "I could not even get an unpaid internship at a newspaper because I was going to add too much overhead. 🆒",
+      "double": false
     }
   ]
 }
