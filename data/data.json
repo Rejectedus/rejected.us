@@ -559,12 +559,21 @@
       "double": false
     },
     {
-      "fullName": "James Kyle",
-      "handle": "thejameskyle",
-      "website": "https://twitter.com/thejameskyle",
-      "bio": "CloudFlare",
-      "avatar": "thejameskyle.jpg",
-      "story": "I always had a poor relationship with my father. Before we stopped talking, he said lots of terrible things to me. He said that I had no future. Three years later, at 21 years old, I had already experienced a ton of professional success. I was making a six figure salary at 20 and traveling around the world to speak at 21. Even better– I've been able to help pay for my mom to finish her masters degree. Fuck you Eric, I'm the shit.",
+      "fullName": "aditya1",
+      "handle": "aditya1",
+      "website": "https://github.com/jkup/rejected.us",
+      "bio": "Anonymous",
+      "avatar": "anonymous.png",
+      "story": "I'm originally from India. I have been rejected by 10-15 universities before landing in Virginia Tech. It took me 3 years to get my first admit. During my grad school I have been rejected by Google for not knowing their book search algorithm :-). Rejected by Microsoft for whatever reason and I blew up Amazon interview. Now work at European company in New England. Still eager to go to Silicon Valley, maybe 2016 is my year.",
+      "double": true
+    },
+    {
+      "fullName": "Coby Benveniste",
+      "handle": "daVinciCEB",
+      "website": "https://twitter.com/daVinciCEB",
+      "bio": "OSS",
+      "avatar": "daVinciCEB.jpeg",
+      "story": "I was at the University of Illinois at Urbana-Champaign for a year. The school academics office was telling me that I had to take three semesters of Physics, including Quantum Physics and Thermodynamics, and that if I didn't like that, then I didn't belong at the school. I dropped out, and was almost immediately hired as a freelance contractor at a billion dollar investment company, and told that I could name my own price. Suck it, UIUC.",
       "double": true
     }
   ]
