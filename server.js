@@ -15,6 +15,6 @@ app.get('/', function(req, res) {
   res.render('index', { title: "They Rejected Us.", stories: data.stories.reverse() });
 });
 
-var server = app.listen(8080, function () {
+var server = app.listen(8080,'localhost' function () {
   console.log('Listening at http://localhost:8080');
 });
