@@ -593,6 +593,15 @@
       "avatar": "abad.jpg",
       "story": "Rejected by Twitter, got depressed but then I created Popcorn Time!. Don't lose hope and keep your head up, adventures are around the corner!",
       "double": false
+    },
+    {
+      "fullName": "Mark K Cowan",
+      "handle": "battlesnake",
+      "website": "https://github.com/battlesnake",
+      "bio": "OSS",
+      "avatar": "battlesnake.jpeg",
+      "story": "Rejected by various small companies, have since rejected Google and Amazon and am working on space technologies",
+      "double": false
     }
   ]
 }
