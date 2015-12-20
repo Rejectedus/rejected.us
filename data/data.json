@@ -583,7 +583,7 @@
       "bio": "OSS",
       "avatar": "marshmallowmouth.jpeg",
       "story": "In my junior year of college, I had a phone interview with Apple for an internship. They asked me a question that took me a bit of time to answer, and the interviewer cut me off in the middle, saying \"if you can't answer a question that is so simple quickly how could you expect to be hired by Apple.\" I went on to be hired at Microsoft, and then Apple and then get into a Ph.D. program.",
-      "double": true
+      "double": false
     }
   ]
 }
