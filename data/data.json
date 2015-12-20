@@ -575,6 +575,15 @@
       "avatar": "daVinciCEB.jpeg",
       "story": "I was at the University of Illinois at Urbana-Champaign for a year. The school academics office was telling me that I had to take three semesters of Physics, including Quantum Physics and Thermodynamics, and that if I didn't like that, then I didn't belong at the school. I dropped out, and was almost immediately hired as a freelance contractor at a billion dollar investment company, and told that I could name my own price. Suck it, UIUC.",
       "double": true
+    },
+    {
+      "fullName": "Adrian C",
+      "handle": "marshmallowmouth",
+      "website": "https://github.com/marshmallowmouth",
+      "bio": "OSS",
+      "avatar": "marshmallowmouth.jpeg",
+      "story": "In my junior year of college, I had a phone interview with Apple for an internship. They asked me a question that took me a bit of time to answer, and the interviewer cut me off in the middle, saying \"if you can't answer a question that is so simple quickly how could you expect to be hired by Apple.\" I went on to be hired at Microsoft, and then Apple and then get into a Ph.D. program.",
+      "double": true
     }
   ]
 }
