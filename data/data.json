@@ -548,6 +548,16 @@
       "avatar": "eray.jpeg",
       "story": "Rejected by Valve Software for a Software Engineer position because i was young. (when i was 19)",
       "double": false
+    },
+    {
+      "fullName": "Greg Tarnoff",
+      "handle": "gregtarnoff",
+      "website": "tarnoff.info",
+      "bio": "Accessibility Consultant",
+      "avatar": "gregtarnoff.jpeg",
+      "story": "I've been in tech for over a decade. Throughout my career my focus has been on front end development and building accessible interfaces. I've worked in healthcare, insurance, and  with government contractors and agencies...all which require their products to be Section 508 compliant. I've teamed with the leading accessibility consulting firms, given workshops and talks on accessible design and development all across the globe. At some point in the last three years I've become a go to person for consulting on vestibular disorders &amp; the effects of motion on disabled folks. I applied to a job for Web Accessibilty Engineer with Expedia and was rejected due to 'not having enough experience'.",
+      "double": true
     }
+
   ]
 }
