@@ -15,6 +15,6 @@ app.get('/', function(req, res) {
   res.render('index', { title: "They Rejected Us.", stories: data.stories.reverse() });
 });
 
-var server = app.listen(8080, function () {
-  console.log('Listening at http://localhost:8080');
+var server = app.listen(process.env.PORT||8080,'localhost',function(){  
+  console.log('\x1b[32mListening at %s :%d\x1b[0m',server.address().address,server.address().port);
 });
