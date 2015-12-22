@@ -602,6 +602,15 @@
       "avatar": "battlesnake.jpeg",
       "story": "Rejected by various small companies, have since rejected Google and Amazon and am working on space technologies",
       "double": false
+    },
+    {
+      "fullName": "Victor Trac",
+      "handle": "victortrac",
+      "website": "https://twitter.com/victortrac",
+      "bio": "Wikibuy",
+      "avatar": "victortrac.png",
+      "story": "As a freshly minted EE, American Megatrends rejected me as a BIOS engineer. In hindsight, that was probably the luckiest professional event in my early career. I decided to move to and work in Europe for 4 years, where I got to travel extensively, and then took a job at a startup in Austin, TX, having never visited the state before. The startup grew and even IPO'd, and since then I've had a great time back in the startup game. I'm very thankful AMI rejected me and ignored my pleas to let me interview as a product manager, since I apparently couldn't hack it as a BIOS engineer.",
+      "double": false
     }
   ]
 }
