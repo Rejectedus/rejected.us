@@ -620,6 +620,15 @@
       "avatar": "victortrac.png",
       "story": "As a freshly minted EE, American Megatrends rejected me as a BIOS engineer. I decided to move to and work in Europe for 4 years, where I got to travel extensively, and then took a job at a startup in Austin, TX, having never visited the state before. The startup grew and even IPO'd, and since then I've had a great time back in the startup game.",
       "double": true
+    },
+    {
+      "fullName": "Marco Hengstenberg",
+      "handle": "nice2meatu",
+      "website": "https://twitter.com/nice2meatu",
+      "bio": "Smashing Magazine",
+      "avatar": "nice2meatu.jpg",
+      "story": "In late 2012, during a phone interview, I was told that, by judging from my résumé, I might better look for a trainee position. One week later I applied at Smashing Magazine and was hired right away – full time.",
+      "double": false
     }
   ]
 }
