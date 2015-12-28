@@ -550,7 +550,6 @@
       "double": false
     },
     {
-<<<<<<< HEAD
       "fullName": "Sam Saccone",
       "handle": "samccone",
       "website": "http://samsaccone.com",
@@ -610,8 +609,8 @@
       "website": "tarnoff.info",
       "bio": "Accessibility Consultant",
       "avatar": "gregtarnoff.jpeg",
-      "story": "I've been in tech for over a decade. Throughout my career my focus has been on front end development and building accessible interfaces. I've worked in healthcare, insurance, and  with government contractors and agencies...all which require their products to be Section 508 compliant. I've teamed with the leading accessibility consulting firms, given workshops and talks on accessible design and development all across the globe. At some point in the last three years I've become a go to person for consulting on vestibular disorders &amp; the effects of motion on disabled folks. I applied to a job for Web Accessibilty Engineer with Expedia and was rejected due to 'not having enough experience'.",
-      "double": true
+      "story": "I applied to a job for Web Accessibilty Engineer with Expedia and was rejected due to 'not having enough experience'.",
+      "double": false
     },
     {
       "fullName": "Victor Trac",
@@ -619,8 +618,8 @@
       "website": "https://twitter.com/victortrac",
       "bio": "Wikibuy",
       "avatar": "victortrac.png",
-      "story": "As a freshly minted EE, American Megatrends rejected me as a BIOS engineer. In hindsight, that was probably the luckiest professional event in my early career. I decided to move to and work in Europe for 4 years, where I got to travel extensively, and then took a job at a startup in Austin, TX, having never visited the state before. The startup grew and even IPO'd, and since then I've had a great time back in the startup game. I'm very thankful AMI rejected me and ignored my pleas to let me interview as a product manager, since I apparently couldn't hack it as a BIOS engineer.",
-      "double": false
+      "story": "As a freshly minted EE, American Megatrends rejected me as a BIOS engineer. I decided to move to and work in Europe for 4 years, where I got to travel extensively, and then took a job at a startup in Austin, TX, having never visited the state before. The startup grew and even IPO'd, and since then I've had a great time back in the startup game.",
+      "double": true
     }
   ]
 }
