@@ -629,6 +629,15 @@
       "avatar": "nice2meatu.jpg",
       "story": "In late 2012, during a phone interview, I was told that, by judging from my résumé, I might better look for a trainee position. One week later I applied at Smashing Magazine and was hired right away – full time.",
       "double": false
-    }
+  },
+  {
+	  "fullName": "Luke Schunk",
+	  "handle": "LukeSchunk",
+	  "website": "https://github.com/lukeschunk",
+	  "bio": "Software Engineer",
+	  "avatar": "lukeyschunk.jpg",
+	  "story": "When I was a designer, I was rejected from countless internships and junior positions at agencies like Huge, RGA, and more. Decided to learn to code and can't wait to apply to some of those companies again - as a developer.",
+	  "double": false
+  }
   ]
 }
