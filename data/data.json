@@ -637,7 +637,7 @@
       "bio": "Software Engineer",
       "avatar": "lukeyschunk.jpg",
       "story": "When I was a designer, I was rejected from countless internships and junior positions at agencies like Huge, RGA, and more. Decided to learn to code and can't wait to apply to some of those companies again - as a developer.",
-      "double": false
+      "double": true
     }
   ]
 }
