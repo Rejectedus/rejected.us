@@ -638,6 +638,15 @@
       "avatar": "lukeyschunk.jpg",
       "story": "When I was a designer, I was rejected from countless internships and junior positions at agencies like Huge, RGA, and more. Decided to learn to code and can't wait to apply to some of those companies again - as a developer.",
       "double": true
+    },
+    {
+      "fullName": "Troy Connor",
+      "handle": "troy0820",
+      "website": "https://github.com/troy0820",
+      "bio": "Software Engineer",
+      "avatar": "troy0820.jpg",
+      "story": "Got rejected from Dominion Enterprises fresh out of college trying to do some PHP.  I attended Meetups with Norfolk.js and found myself in a great community.  I contributed to open source and was very apprehensive about leaving my government job to become a developer.  I met great people who encouraged me and helped me get rid of my imposter syndrome.  Now I'm a full-time Software Engineer with Emerging Technology Advisors.  Keep fighting for it.",
+      "double": true
     }
   ]
 }
