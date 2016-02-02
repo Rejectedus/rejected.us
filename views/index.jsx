@@ -24,7 +24,7 @@ var Rejections = React.createClass({
     });
 
     return (
-      <DefaultLayout title='Rejected US'>{rejections}</DefaultLayout>
+      <DefaultLayout title={this.props.title}>{rejections}</DefaultLayout>
     )
   }
 });
