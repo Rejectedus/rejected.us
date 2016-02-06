@@ -2,13 +2,6 @@ var React = require('react');
 var DefaultLayout = require('./default');
 
 var Rejections = React.createClass({
-  componentDidMount: function() {
-    var msnry = new Masonry( '.grid', {
-      columnWidth: 200,
-      itemSelector: '.grid-item'
-    });
-  },
-
   render: function() {
     var rejections = this.props.stories.map(function(story) {
       return (
@@ -31,7 +24,7 @@ var Rejections = React.createClass({
     });
 
     return (
-      <DefaultLayout>{rejections}</DefaultLayout>
+      <DefaultLayout title={this.props.title}>{rejections}</DefaultLayout>
     )
   }
 });
