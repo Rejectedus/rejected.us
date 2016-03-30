@@ -1,4 +1,6 @@
 var msnry = new Masonry( '.grid', {
-  columnWidth: 200,
-  itemSelector: '.grid-item'
+  itemSelector: '.grid-item',
+  columnWidth: '.grid-sizer',
+  gutter: '.gutter-sizer',
+  percentPosition: true
 });
