@@ -39,19 +39,18 @@ header div a:hover {
 	padding: 10px 10px 75px;
 	margin-bottom: 100px;
   text-align: center;
-	width: 325px;
+	width: 100%;
 }
 
 @media only screen and (min-width: 650px) {
 
+  .Rejection {
+    width: 30%;
+  }
+	
   .Rejection--width2 {
-    width: 650px;
+    width: 65%;
   }
-
-  .Rejection--width2 .Rejection-Profile {
-    left: 38%;
-  }
-
 }
 
 a {
@@ -65,7 +64,9 @@ a {
 	box-shadow: 0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24);
 	position: absolute;
 	bottom: -75px;
-	left: 25%;
+	left: 50%;
+    transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
 }
 
 .Rejection-Bio {
@@ -78,6 +79,17 @@ a {
 .Rejection-Title--Handle {
   font-size: 14px;
   margin: -10px 0 10px;
+}
+
+.Rejection.grid-sizer {
+	border: 0;
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+.gutter-sizer {
+  width: 5%;
 }
 
 /* Github Corners */

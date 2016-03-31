@@ -41,7 +41,7 @@ var DefaultLayout = React.createClass({
             <div>Everyone’s been rejected - these are our stories</div>
             <div>To add your own, please <a href="https://github.com/jkup/rejected.us/issues/new">open an issue</a> or tweet me at <a href="https://twitter.com/jkup">@jkup</a></div>
           </header>
-          <div className="grid text-center Rejections">{this.props.children}</div>
+          <div className="grid text-center Rejections"><div className="grid-sizer Rejection"></div><div className="gutter-sizer"></div>{this.props.children}</div>
           <script src="/js/masonry.js"></script>
           <script src="/js/script.js"></script>
           <script src="/js/googleAnalytics.js"></script>
