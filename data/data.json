@@ -647,6 +647,15 @@
       "avatar": "troy0820.jpg",
       "story": "Got rejected from Dominion Enterprises fresh out of college trying to do some PHP.  I attended Meetups with Norfolk.js and found myself in a great community.  I contributed to open source and was very apprehensive about leaving my government job to become a developer.  I met great people who encouraged me and helped me get rid of my imposter syndrome.  Now I'm a full-time Software Engineer with Emerging Technology Advisors.  Keep fighting for it.",
       "double": true
+    },
+     {
+      "fullname": "Tim Chevalier",
+      "handle": "fatneckbeardguy",
+      "website":"https://catamorphism.org/",
+      "bio": "Software Engineer",
+      "avator": "TimChristine.jpg",
+      "story": "Rejected by MIT for undergrad, accepted to the computer science Ph.D program. (I chose Berkeley for grad school instead.) Rejected by Google in 2003, 2006, and 2007; hired by Google in 2015. Previously rejected by Facebook, Twitter, and Apple.",
+      "double":true
     }
   ]
 }
