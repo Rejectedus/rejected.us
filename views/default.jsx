@@ -37,7 +37,7 @@ var DefaultLayout = React.createClass({
             </svg>
           </a>
           <header className="text-center">
-            <h1 className="title">They Rejected Us.</h1>
+            <h1 className="title"><a href="/">They Rejected Us.</a></h1>
             <div>Everyone’s been rejected - these are our stories</div>
             <div>To add your own, please <a href="https://github.com/jkup/rejected.us/issues/new">open an issue</a> or tweet me at <a href="https://twitter.com/jkup">@jkup</a></div>
           </header>
