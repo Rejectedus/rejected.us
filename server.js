@@ -2,7 +2,6 @@ var fs = require('fs');
 var express = require('express');
 var app = express();
 var RSS = require('rss');
-var slugify = require('slug');
 
 // Public directory for all static assets
 app.use(express.static('public'));
