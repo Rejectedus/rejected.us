@@ -14,6 +14,15 @@ header {
   z-index: 9;
 }
 
+header h1 a {
+  color: #E0E0E0;
+}
+
+header h1 a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
 header div {
   color: #E0E0E0;
 }
@@ -47,7 +56,7 @@ header div a:hover {
   .Rejection {
     width: 30%;
   }
-	
+
   .Rejection--width2 {
     width: 65%;
   }

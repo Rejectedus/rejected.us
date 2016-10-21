@@ -24,6 +24,14 @@ app.get('/feed.xml', function(req, res) {
   res.send(feed.xml());
 });
 
+app.get('/story/:handle', function(req, res) {
+  const data = readData();
+  const myStories = data.stories.filter(function(element) {
+    return element.handle === req.params.handle;
+  });
+  res.render('index', { title: "They Rejected Us.", stories: myStories });
+});
+
 // rss rendering
 function createFeed(data) {
   var feed = new RSS({

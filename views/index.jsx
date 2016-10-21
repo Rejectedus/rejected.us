@@ -5,7 +5,7 @@ var Rejections = React.createClass({
   render: function() {
     var rejections = this.props.stories.map(function(story) {
       return (
-        <div className={(story.double) ? 'grid-item Rejection Rejection--width2' : 'grid-item Rejection'}>
+        <div key={story.handle} className={(story.double) ? 'grid-item Rejection Rejection--width2' : 'grid-item Rejection'}>
           <div className="Rejection-Title">
             <h4 className="Rejection-Title--FullName">
               {story.fullName}
@@ -17,7 +17,9 @@ var Rejections = React.createClass({
             (<span className="Rejection-Bio">{story.bio}</span>)
             <span> </span>
           </div>
-          <img className="Rejection-Profile" alt={story.handle} src={"/img/" + story.avatar} />
+          <a href={'/story/' + story.handle}>
+            <img className="Rejection-Profile" alt={story.handle} src={"/img/" + story.avatar} />
+          </a>
           <p>{story.story}</p>
         </div>
       )
