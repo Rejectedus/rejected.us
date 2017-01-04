@@ -101,6 +101,20 @@ a {
   width: 5%;
 }
 
+.githubStyle {
+  fill: "#151513";
+  color: "#fff";
+  position: "fixed";
+  top: 0;
+  border: 0;
+  right: 0;
+  z-index: 10;
+}
+
+.githubStyle2 {
+  transform-origin: "130px 106px";
+}
+
 /* Github Corners */
 .github-corner:hover .octo-arm {
     animation: octocat-wave 560ms ease-in-out
