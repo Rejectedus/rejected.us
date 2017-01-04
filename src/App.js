@@ -1,8 +1,16 @@
 import React, { Component } from 'react'
 import Header from './Header'
+import Masonry from 'react-masonry-component'
 import './css/App.css'
 
 import storiesData from './data/stories.js'
+
+const masonryOptions = {
+  itemSelector: '.grid-item',
+  columnWidth: '.grid-sizer',
+  gutter: '.gutter-sizer',
+  percentPosition: true
+}
 
 class App extends Component {
   render() {
@@ -30,10 +38,12 @@ class App extends Component {
     return (
       <div>
         <Header />
-        <div>
-          <ul>
+        <div className='grid text-center Rejections'>
+          <div className='grid-sizer Rejection' />
+          <div className='gutter-sizer' />
+          <Masonry options={masonryOptions}>
             {stories}
-          </ul>
+          </Masonry>
         </div>
       </div>
     )
