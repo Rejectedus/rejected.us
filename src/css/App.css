@@ -102,9 +102,9 @@ a {
 }
 
 .githubStyle {
-  fill: "#151513";
-  color: "#fff";
-  position: "fixed";
+  fill: #151513;
+  color: #fff;
+  position: fixed;
   top: 0;
   border: 0;
   right: 0;
