@@ -1,5 +1,5 @@
 {
-"name": "rejected.us",
+  "name": "rejected.us",
   "version": "1.0.1",
   "description": "Everyone’s been rejected - these are our stories",
   "private": true,
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "react-masonry-component": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
