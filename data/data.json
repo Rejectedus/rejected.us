@@ -656,6 +656,15 @@
       "avatar": "TimChristine.jpg",
       "story": "Rejected by MIT for undergrad, accepted to the computer science Ph.D program. (I chose Berkeley for grad school instead.) Rejected by Google in 2003, 2006, and 2007; hired by Google in 2015. Previously rejected by Facebook, Twitter, and Apple.",
       "double":true
+    },
+    {
+      "fullName": "Jasmine Greenaway",
+      "handle": "paladiqe",
+      "website":"https://twitter.com/paladique",
+      "bio": "Software Engineer",
+      "avatar": "paladique.jpeg",
+      "story": "I really wanted to work in the games industry, so I applied to a QA dev position at EA Sports (Tiburon) and got rejected after a promising office visit. Four years later my name was included in GTAV (PC/PS4/One) credits during my time at Rockstar Games.",
+      "double":true
     }
   ]
 }
