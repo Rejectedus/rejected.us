@@ -9,7 +9,8 @@
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
-    "styled-components": "^2.0.0"
+    "styled-components": "^2.0.0",
+    "styled-normalize": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

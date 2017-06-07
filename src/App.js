@@ -8,19 +8,19 @@ class App extends Component {
     const stories = storiesData.map((story) => {
       return (
         <div key={story.handle} className={(story.double) ? 'grid-item Rejection Rejection--width2' : 'grid-item Rejection'}>
-          <div className="Rejection-Title">
-            <h4 className="Rejection-Title--FullName">
+          <div>
+            <h4>
               {story.fullName}
             </h4>
           </div>
-          <div className="Rejection-Title--Handle">
+          <div>
             <a target="_blank" href={story.website}>@{story.handle}</a>
             <span> </span>
-            (<span className="Rejection-Bio">{story.bio}</span>)
+            (<span>{story.bio}</span>)
             <span> </span>
           </div>
           <a href={'/story/' + story.handle}>
-            <img className="Rejection-Profile" alt={story.handle} src={"/images/" + story.avatar} />
+            <img alt={story.handle} src={"/images/" + story.avatar} />
           </a>
           <p>{story.story}</p>
         </div>
@@ -29,7 +29,7 @@ class App extends Component {
     return (
       <div>
         <Header />
-        <div className='body'>{stories}</div>
+        <div>{stories}</div>
       </div>
     )
   }
