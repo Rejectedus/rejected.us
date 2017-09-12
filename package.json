@@ -18,7 +18,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "format":
-      "prettier --single-quote --trailing-comma es5 --write '{src,public}/**/*.js'"
+    "format": "prettier --single-quote --trailing-comma es5 --write '{src,public}/**/*.js'"
   }
 }
