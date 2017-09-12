@@ -1,16 +1,27 @@
 import React from 'react'
+import styled from 'styled-components'
 import baseStyles from './styles/index'
 
 import Header from './Header'
 
 import storiesData from './data/stories.js'
 
+const AppStyle = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+`
+
+const Story = styled.div`
+  max-width: 350px;
+`
+
 export default () => {
   baseStyles()
 
   const stories = storiesData.map((story) => {
     return (
-      <div key={story.handle} className={(story.double) ? 'grid-item Rejection Rejection--width2' : 'grid-item Rejection'}>
+      <Story key={story.handle} className={(story.double) ? 'Rejection--width2' : null}>
         <div>
           <h4>
             {story.fullName}
@@ -26,14 +37,14 @@ export default () => {
           <img alt={story.handle} src={"/images/" + story.avatar} />
         </a>
         <p>{story.story}</p>
-      </div>
+      </Story>
     )
   })
 
   return (
     <div>
       <Header />
-      <div>{stories}</div>
+      <AppStyle>{stories}</AppStyle>
     </div>
   )
 }
