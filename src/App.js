@@ -1,9 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import baseStyles from './styles/index';
-
 import Header from './Header';
-
 import storiesData from './data/stories.js';
 
 const AppStyle = styled.div`
@@ -51,7 +49,7 @@ export default () => {
       >
         <StoryImage
           alt={story.handle}
-          src={import('/images/' + story.avatar)}
+          src={require('./images/' + story.avatar)}
         />
         <span>
           <StoryFullName>{story.fullName}</StoryFullName>
