@@ -18,7 +18,7 @@ const Story = styled.div`
   clear: both;
   margin: 10px;
   padding: 10px;
-  width: 300px;
+  width: 400px;
 `;
 
 const StoryImage = styled.img`
