@@ -49,7 +49,7 @@ export default () => {
       >
         <StoryImage
           alt={story.handle}
-          src={require('./images/' + story.avatar)}
+          src={process.env.PUBLIC_URL + '/images/' + story.avatar}
         />
         <span>
           <StoryFullName>{story.fullName}</StoryFullName>
