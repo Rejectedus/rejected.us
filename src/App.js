@@ -49,7 +49,10 @@ export default () => {
         key={story.handle}
         className={story.double ? 'Rejection--width2' : null}
       >
-        <StoryImage alt={story.handle} src={'/images/' + story.avatar} />
+        <StoryImage
+          alt={story.handle}
+          src={import('/images/' + story.avatar)}
+        />
         <span>
           <StoryFullName>{story.fullName}</StoryFullName>
         </span>
