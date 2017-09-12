@@ -35,7 +35,7 @@ const StoryFullName = styled.span`
 const StoryBio = styled.span`
   color: #193549;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 12px;
 `;
 
 export default () => {
