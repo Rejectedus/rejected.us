@@ -1,32 +1,23 @@
 {
   "name": "rejected.us",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Everyone’s been rejected - these are our stories",
-  "main": "server.js",
-  "scripts": {
-    "test": "test"
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.6.1",
+    "react-scripts": "1.0.13"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jkup/rejected.us.git"
-  },
-  "keywords": [
-    "rejected",
-    "stories",
-    "tech",
-    "interviews"
-  ],
-  "author": "Jon Kuperman",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jkup/rejected.us/issues"
-  },
-  "homepage": "https://github.com/jkup/rejected.us#readme",
   "dependencies": {
-    "express": "^4.13.3",
-    "express-react-views": "^0.9.0",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "rss": "^1.2.1"
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "styled-components": "^2.0.0",
+    "styled-normalize": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "format": "prettier --single-quote --trailing-comma es5 --write '{src,public}/**/*.js'"
   }
 }
