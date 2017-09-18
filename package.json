@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Everyone’s been rejected - these are our stories",
   "private": true,
-  "homepage": "https://rejectedus.github.io/rejected.us",
+  "homepage": "http://rejected.us",
   "devDependencies": {
     "gh-pages": "^1.0.0",
     "prettier": "^1.6.1",
