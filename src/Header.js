@@ -15,11 +15,10 @@ export default () => {
     <div>
       <AppHeader>
         <AppTitle>
-          <a href="/">They Rejected Us.</a>
+          <a href="/">We've all faced rejection.</a>
         </AppTitle>
-        <div>We've all faced rejection - these are our stories</div>
         <div>
-          To add your own, please{' '}
+          To add your own rejection story, please{' '}
           <a href="https://github.com/jkup/rejected.us/issues/new">
             open an issue
           </a>{' '}
