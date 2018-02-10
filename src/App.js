@@ -71,14 +71,6 @@ export default () => {
     <div>
       <Header />
       <AppStyle>{stories}</AppStyle>
-      <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=UA-21008844-16"
-      />
-      <script>
-        window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments)}
-        gtag('js', new Date()); gtag('config', 'UA-21008844-16');
-      </script>
     </div>
   );
 };
