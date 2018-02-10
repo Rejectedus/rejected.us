@@ -518,16 +518,6 @@ module.exports = [
     double: false
   },
   {
-    fullName: 'Jonas Orinovski',
-    handle: 'jokoon',
-    website: 'https://github.com/jokoon',
-    bio: 'OSS',
-    avatar: 'jokoon.jpg',
-    story:
-      "I was rejected by ubisoft, bull/amesys, and dozen of other tech companies, because I don't have experience in java, .net, while I'm skilled in C/C++, python, linux. I went through many tests, including IQ (125) and programming tests.\nStill unemployed. Have given up, but I still intend to make a tiny game, if I can find the motivation.",
-    double: true
-  },
-  {
     fullName: 'Peter Kim',
     handle: 'pkayfire',
     website: 'https://github.com/pkayfire',
