@@ -717,4 +717,14 @@ module.exports = [
       'Rejected by MIT for undergrad, accepted to the computer science Ph.D program. (I chose Berkeley for grad school instead.) Rejected by Google in 2003, 2006, and 2007; hired by Google in 2015. Previously rejected by Facebook, Twitter, and Apple.',
     double: true,
   },
+  {
+    fullName: 'Nathan Friedly',
+    handle: 'nfriedly',
+    website: 'https://www.nfriedly.com/',
+    bio: 'Senior Software Engineer',
+    avatar: 'nfriedly.jpg',
+    story:
+      'I was rejected for a Software Developer role at smaller company because I was "junior-level" and had bad motivation. A few months later I joined IBM as an Advisory Engineer and helped launch IBM Watson.',
+    double: false,
+  },
 ];
