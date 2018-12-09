@@ -1,30 +1,20 @@
-import React from 'react';
-import styled from 'styled-components';
-
-const AppHeader = styled.div`
-  background: white;
-  border-bottom: 8px solid #56c6c0;
-  padding-bottom: 20px;
-  text-align: center;
-`;
-
-const AppTitle = styled.h1`margin: 0 0 20px 0;`;
+import React from "react";
 
 export default () => {
   return (
     <div>
-      <AppHeader>
-        <AppTitle>
+      <div className="app-header">
+        <h1 className="app-title">
           <a href="/">We've all faced rejection.</a>
-        </AppTitle>
+        </h1>
         <div>
-          To add your own rejection story, please{' '}
-          <a href="https://github.com/jkup/rejected.us/issues/new">
-            open an issue
-          </a>{' '}
+          To add your own rejection story, please{" "}
+          <a href="https://github.com/Rejectedus/rejected.us/pulls/">
+            open a PR
+          </a>{" "}
           or tweet me at <a href="https://twitter.com/jkup">@jkup</a>
         </div>
-      </AppHeader>
+      </div>
     </div>
   );
 };

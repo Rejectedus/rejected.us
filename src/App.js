@@ -1,76 +1,39 @@
-import React from 'react';
-import styled from 'styled-components';
-import baseStyles from './styles/index';
-import Header from './Header';
-import storiesData from './data/stories.js';
-
-const AppStyle = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-`;
-
-const Story = styled.div`
-  background: white;
-  border: 7px solid #5b5b5b;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  box-sizing: border-box;
-  clear: both;
-  margin: 10px;
-  padding: 10px;
-  width: 400px;
-`;
-
-const StoryImage = styled.img`
-  float: left;
-  margin-right: 10px;
-  width: 100px;
-`;
-
-const StoryFullName = styled.span`
-  display: flex;
-  font-weight: bold;
-`;
-
-const StoryBio = styled.span`
-  color: #193549;
-  font-weight: bold;
-  font-size: 12px;
-`;
+import React from "react";
+import Header from "./Header";
+import storiesData from "./data/stories.js";
 
 export default () => {
-  baseStyles();
-
   const stories = storiesData.map(story => {
     return (
-      <Story
+      <div
         key={story.handle}
-        className={story.double ? 'Rejection--width2' : null}
+        className={story.double ? "Story Rejection--width2" : "Story"}
       >
-        <StoryImage
+        <img
           alt={story.handle}
-          src={process.env.PUBLIC_URL + '/images/' + story.avatar}
+          className="Story-image"
+          src={process.env.PUBLIC_URL + "/images/" + story.avatar}
         />
         <span>
-          <StoryFullName>{story.fullName}</StoryFullName>
+          <span className="Story-fullname">{story.fullName}</span>
         </span>
         <span>
-          <a target="_blank" href={story.website}>
+          <a target="_blank" rel="noopener noreferrer" href={story.website}>
             @{story.handle}
           </a>
           <span> </span>
-          <StoryBio>{story.bio}</StoryBio>
+          <span className="Story-bio">{story.bio}</span>
           <span> </span>
         </span>
         <p>{story.story}</p>
-      </Story>
+      </div>
     );
   });
 
   return (
     <div>
       <Header />
-      <AppStyle>{stories}</AppStyle>
+      <div className="App-style">{stories}</div>
     </div>
   );
 };

@@ -1,0 +1,62 @@
+body {
+  background: #3c3c3c;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+a {
+  color: #193549;
+  text-decoration-color: #ffc600;
+}
+
+.Story.Rejection--width2 {
+  width: 600px;
+}
+
+.App-style {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.app-header {
+  background: white;
+  border-bottom: 8px solid #56c6c0;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.app-title {
+  margin: 0 0 20px 0;
+}
+
+.Story {
+  background: white;
+  border: 7px solid #5b5b5b;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  clear: both;
+  margin: 10px;
+  padding: 10px;
+  width: 400px;
+}
+
+.Story-image {
+  float: left;
+  margin-right: 10px;
+  width: 100px;
+}
+
+.Story-fullname {
+  display: flex;
+  font-weight: bold;
+}
+
+.Story-bio {
+  color: #193549;
+  font-weight: bold;
+  font-size: 12px;
+}
