@@ -727,4 +727,13 @@ module.exports = [
       'I was rejected for a Software Developer role at smaller company because I was "junior-level" and had bad motivation. A few months later I joined IBM as an Advisory Engineer and helped launch IBM Watson.',
     double: false,
   },
+  {
+    fullName: 'Frances Coronel',
+    handle: 'fvcproductions',
+    website: 'https://www.fvcproductions.com/?ref=rejected.us',
+    bio: 'Software Engineer at Slack',
+    avatar: 'fvcproductions.jpg',
+    story: "I was rejected for a developer advocate role at a startup that helps people sign documents where I was 1 of 2 finalists after a lengthy interview process. When I asked for feeback on what I could have done better, the recruiter told me that in all his years as a recruiter, he's never been in a position where he wasn't able to provide any feedback. Later, I found out that the guy who got hired went to the same school as the hiring manager. This was the first time I felt a strong sense of imposter syndrome in the tech industry. One month later, I got an offer from Slack. Perseverance is key.",
+    double: true,
+  },
 ];
