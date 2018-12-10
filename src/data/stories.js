@@ -1,5 +1,15 @@
 module.exports = [
   {
+    fullName: 'Jordan Gregory',
+    handle: 'gregoryjordanm',
+    website: 'https://twitter.com/j4n_g5y',
+    bio: "Dad, Husband, 20 year linux veteran, 19 year python veteran",
+    avatar: 'gregoryjordanm.jpg',
+    story:
+      'Rejected by the leading debian-based linux distribution because "I don\'t have a college degree", otherwise, they loved  my experience.',
+    double: false,
+  },
+  {
     fullName: 'Kyle Simpson',
     handle: 'getify',
     website: 'https://twitter.com/getify',
