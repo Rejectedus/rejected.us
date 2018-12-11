@@ -1,5 +1,15 @@
 module.exports = [
   {
+      fullName: "Eduards Sizovs",
+      handle: "eduardsi",
+      website: "https://twitter.com/eduardsi",
+      bio: "Founder of DevTube",
+      avatar: "eduardsi.jpg",
+      story:
+        'Atlassian rejected me with "you don\'t know what you want". They were right. I built a dev community, international conference, a startup, traded crypto and retired in 30.',
+      double: false
+  },   
+  {
     fullName: "Kyle Simpson",
     handle: "getify",
     website: "https://twitter.com/getify",
