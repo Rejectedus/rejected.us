@@ -756,5 +756,15 @@ module.exports = [
     story:
       'Rejected by the leading debian-based linux distribution because "I don\'t have a college degree", otherwise, they loved  my experience.',
     double: false
+  },
+  {
+    fullName: "Jason Marshall",
+    handle: "psion1369",
+    website: "",
+    bio: "Developer, just a developer",
+    avatar: "",
+    story:
+      'I was always told that because I was a college dropout and had no experience in a professional domain, I would never become a professional developer with just self-taught skills.  Then one day I interviewed for a start-up and the large financial company who backed them did the interview.  The financial company then said, "If you don\'t take him, we will.  And if you do take him, we still will."',
+    double: false
   }
 ];
