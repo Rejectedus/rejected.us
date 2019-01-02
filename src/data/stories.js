@@ -8,7 +8,7 @@ module.exports = [
       story:
         'Atlassian rejected me with "you don\'t know what you want". They were right. I built a dev community, international conference, a startup, traded crypto and retired in 30.',
       double: false
-  },   
+  },
   {
     fullName: "Kyle Simpson",
     handle: "getify",
@@ -762,9 +762,9 @@ module.exports = [
     handle: "DeveloperAlan",
     website: "https://github.com/DeveloperAlan/",
     bio: "Software Engineer",
-    avatar: "developeralan.jpg",
+    avatar: "developeralan.jpeg",
     story:
-      'Rejected by Freelancer because I did not have a degree 3 years ago. Now with a relevant degree with a Distinction average and full-time development work at reputable software companies.',
+      'Rejected by Freelancer because I did not have a degree 3 years ago. Now about to graduate with a relevant degree with a Distinction average whilst working as a full-time software engineer at other software-based companies.',
     double: false
   }
 ];
