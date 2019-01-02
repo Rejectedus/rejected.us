@@ -756,5 +756,15 @@ module.exports = [
     story:
       'Rejected by the leading debian-based linux distribution because "I don\'t have a college degree", otherwise, they loved  my experience.',
     double: false
+  },
+  {
+    fullName: "Alan Ng",
+    handle: "DeveloperAlan",
+    website: "https://github.com/DeveloperAlan/",
+    bio: "Software Engineer",
+    avatar: "developeralan.jpg",
+    story:
+      'Rejected by Freelancer because I did not have a degree 3 years ago. Now with a relevant degree with a Distinction average and full-time development work at reputable software companies.',
+    double: false
   }
 ];
