@@ -1,5 +1,14 @@
 module.exports = [
   {
+      fullName: "Sebastian Motraghi",
+      handle: "seb_m",
+      website: "https://the1x.engineer",
+      bio: "Twilio",
+      avatar: "sebastian-motraghi.jpg",
+      story: "Don't get discouraged if you get rejected from an opportunity you were really excited about. There are lots of awesome teams that would love to have you – sometimes it just takes a little extra searching.",
+      double: false
+  },
+  {
       fullName: "Eduards Sizovs",
       handle: "eduardsi",
       website: "https://twitter.com/eduardsi",
