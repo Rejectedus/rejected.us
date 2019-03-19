@@ -775,5 +775,15 @@ module.exports = [
     story:
       'Rejected by Freelancer because I did not have a degree 3 years ago. Now about to graduate with a relevant degree with a Distinction average whilst working as a full-time software engineer at other software-based companies.',
     double: false
+  },
+  {
+    fullName: "Kyle Macey",
+    handle: "kylemacey",
+    website: "https://kylemacey.com",
+    bio: "Software Engineering Lead, GitHub",
+    avatar: "https://github.com/kylemacey.png",
+    story:
+      'I was rejected by GitHub twice before getting accepted into a Professional Services role. I since have founded an engineering team at GitHub and built some really cool stuff!',
+    double: false
   }
 ];
