@@ -781,7 +781,7 @@ module.exports = [
     handle: "kylemacey",
     website: "https://kylemacey.com",
     bio: "Software Engineering Lead, GitHub",
-    avatar: "kylemacey.png",
+    avatar: "kylemacey.jpg",
     story:
       'I was rejected by GitHub twice before getting accepted into a Professional Services role. I since have founded an engineering team at GitHub and built some really cool stuff!',
     double: false
