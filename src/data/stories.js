@@ -148,11 +148,11 @@ module.exports = [
     double: false
   },
   {
-    fullName: "Esten",
-    handle: "esten",
-    website: "https://twitter.com/esten",
+    fullName: "Caraesten",
+    handle: "caraesten",
+    website: "https://twitter.com/caraesten",
     bio: "Twitter",
-    avatar: "esten.jpg",
+    avatar: "caraesten.jpg",
     story:
       "I had an interview with Scribd, who I really liked at the time, and totally bombed. Blanked out on writing a linked list in Python.",
     double: false
