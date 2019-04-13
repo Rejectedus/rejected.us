@@ -3,7 +3,7 @@ module.exports = [
     fullName: "Paulo Querido",
     handle: "PauloQuerido",
     website: "https://twitter.com/PauloQuerido",
-    bio: "Twilio",
+    bio: "Ex-journalist. Programmer.",
     avatar: "pquerido.jpg",
     story: "As a journalist and self-taught programmer, in the last 10 years I have proposed innumerable technological innovation projects to newspapers and televisions in my country, being rejected by all of them. Three years ago, at the age of 56, I scheduled the first chatbot in the European press and served as developer for 2 start-ups (games and virtual assistants). 1 year ago I was hired as an Artificial Intelligence programmer and developed voice assistants for contact centers.",
     double: false
