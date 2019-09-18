@@ -805,6 +805,7 @@ module.exports = [
       'Out of the many, the best were in the same week. On Monday I was told I was "too UI-focused" for the first role at a larger company, on Wednesday I was "too UX-focused" for a smaller team, and then on Thursday someone commented "you seem pretty technical for a designer...this isn\'t a developer role."',
     double: false
   },
+  {
     fullName: "Chad Ballay",
     handle: "Chad_Ballay",
     website: "https://chadballay.com",
