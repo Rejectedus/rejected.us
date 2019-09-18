@@ -804,5 +804,15 @@ module.exports = [
     story:
       'Out of the many, the best were in the same week. On Monday I was told I was "too UI-focused" for the first role at a larger company, on Wednesday I was "too UX-focused" for a smaller team, and then on Thursday someone commented "you seem pretty technical for a designer...this isn\'t a developer role."',
     double: false
+  },
+  {
+    fullName: "Chad Ballay",
+    handle: "Chad_Ballay",
+    website: "https://chadballay.com",
+    bio: "Site Reliability Engineer, Walmart",
+    avatar: "chadballay.jpg",
+    story:
+      'Fresh out of college, I interviewed and ultimately wasn\'t hired for position working in Walmart\'s call center.  The feedback I was given that they felt I wasn\'t suited for a tech support role.  After a year of trying a career change into teaching high school math, I reinterviewed and was hired as a developer.  Don\'t let a single interviewer\'s bad feedback mar your self confidence.',
+    double: false
   }
 ];
