@@ -811,7 +811,7 @@ module.exports = [
     bio: "Site Reliability Engineer, Walmart",
     avatar: "chadballay.jpg"
     story:
-      'Fresh out of college I interviewed and ultimately wasn\'t hired for position working in Walmart\'s call center.  The feedback I was given that they felt I wasn\'t suited for a tech support role.  After a year of trying a career change into teaching high school math, I reinterviewed and was hired as a developer.  Don\'t let a single interviewer\'s bad feedback mar your self confidence.',
+      'Fresh out of college, I interviewed and ultimately wasn\'t hired for position working in Walmart\'s call center.  The feedback I was given that they felt I wasn\'t suited for a tech support role.  After a year of trying a career change into teaching high school math, I reinterviewed and was hired as a developer.  Don\'t let a single interviewer\'s bad feedback mar your self confidence.',
     double: false
   }
 ];
