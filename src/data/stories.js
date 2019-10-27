@@ -814,5 +814,15 @@ module.exports = [
     story:
       'Fresh out of college, I interviewed and ultimately wasn\'t hired for position working in Walmart\'s call center.  The feedback I was given that they felt I wasn\'t suited for a tech support role.  After a year of trying a career change into teaching high school math, I reinterviewed and was hired as a developer.  Don\'t let a single interviewer\'s bad feedback mar your self confidence.',
     double: false
+  },
+  {
+    fullName: "Karan Thanvi",
+    handle: "thanvi_karan",
+    website: "https://twitter.com/thanvi_karan",
+    bio: "Platform Engineer(SRE), PayPay, Tokyo JP",
+    avatar: "karancode.jpg",
+    story:
+    'In junior high got rejected for the coaching class I wanted to join, ended up being the topper from the other batch at the end of 2 years. Got rejected from the university I wanted to get in for engineering. In unviersity placements, got rejected for many companies like Morgan Stanely from the last rounds, ended up in multinational one of the most prestigious companies Rakuten, Inc. that came to the campus. At the time of job switch, got rejected from many finTech companies. Currently at Japan\'s largest & fastest growing Mobile Payments company PayPay! The simple solution to this chain of failures & rejections is the chain of continous efforts. Just believe in yourself & never give up!',
+    double: false
   }
 ];
