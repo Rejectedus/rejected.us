@@ -1,5 +1,14 @@
 module.exports = [
   {
+    fullName: "Fredrick Oluoch",
+    handle: "menty44",
+    website: "https://twitter.com/menty44",
+    bio: "Tattooist. Programmer.",
+    avatar: "pp.jpeg",
+    story: "Well, my story is very short. I once applied for a job and I was called for an interview. The moment the interviewer saw my tattoos that was it, he said he cannot work with thugs. Fast forward I now have a job",
+    double: false
+  },
+  {
     fullName: "Paulo Querido",
     handle: "PauloQuerido",
     website: "https://twitter.com/PauloQuerido",
@@ -7,25 +16,25 @@ module.exports = [
     avatar: "pquerido.jpg",
     story: "As a journalist and self-taught programmer, in the last 10 years I have proposed innumerable technological innovation projects to newspapers and televisions in my country, being rejected by all of them. Three years ago, at the age of 56, I scheduled the first chatbot in the European press and served as developer for 2 start-ups (games and virtual assistants). 1 year ago I was hired as an Artificial Intelligence programmer and developed voice assistants for contact centers.",
     double: false
-},
-{
-      fullName: "Sebastian Motraghi",
-      handle: "seb_m",
-      website: "https://the1x.engineer",
-      bio: "Twilio",
-      avatar: "sebastian-motraghi.jpg",
-      story: "Don't get discouraged if you get rejected from an opportunity you were really excited about. There are lots of awesome teams that would love to have you – sometimes it just takes a little extra searching.",
-      double: false
   },
   {
-      fullName: "Eduards Sizovs",
-      handle: "eduardsi",
-      website: "https://twitter.com/eduardsi",
-      bio: "Founder of DevTube",
-      avatar: "eduardsi.jpg",
-      story:
+    fullName: "Sebastian Motraghi",
+    handle: "seb_m",
+    website: "https://the1x.engineer",
+    bio: "Twilio",
+    avatar: "sebastian-motraghi.jpg",
+    story: "Don't get discouraged if you get rejected from an opportunity you were really excited about. There are lots of awesome teams that would love to have you – sometimes it just takes a little extra searching.",
+    double: false
+  },
+  {
+    fullName: "Eduards Sizovs",
+    handle: "eduardsi",
+    website: "https://twitter.com/eduardsi",
+    bio: "Founder of DevTube",
+    avatar: "eduardsi.jpg",
+    story:
         'Atlassian rejected me with "you don\'t know what you want". They were right. I built a dev community, international conference, a startup, traded crypto and retired in 30.',
-      double: false
+    double: false
   },
   {
     fullName: "Kyle Simpson",
@@ -34,7 +43,7 @@ module.exports = [
     bio: "Author of You Don't Know JS",
     avatar: "getify.jpg",
     story:
-      'Major social network company rejected me after an interview with, "We didn\'t think you knew enough JS."',
+        'Major social network company rejected me after an interview with, "We didn\'t think you knew enough JS."',
     double: false
   },
   {
@@ -44,7 +53,7 @@ module.exports = [
     bio: "CEO, Github",
     avatar: "defunkt.jpg",
     story:
-      "Before cofounding GitHub I applied for an engineering job at Yahoo and didn’t get it. Don’t let other people discourage you.",
+        "Before cofounding GitHub I applied for an engineering job at Yahoo and didn’t get it. Don’t let other people discourage you.",
     double: true
   },
   {
@@ -63,7 +72,7 @@ module.exports = [
     bio: "Netflix",
     avatar: "holtbt.jpg",
     story:
-      "Rejected by LinkedIn for not knowing enough JS. Couldn't even get a phone screen with Google or Twitter. Went on to work for reddit and now Netflix.",
+        "Rejected by LinkedIn for not knowing enough JS. Couldn't even get a phone screen with Google or Twitter. Went on to work for reddit and now Netflix.",
     double: false
   },
   {
@@ -73,7 +82,7 @@ module.exports = [
     bio: "Facebook",
     avatar: "kangax.jpg",
     story:
-      "Fun fact: I did Google interview and was told I'm not that good of a JS developer :) So that's out of the way",
+        "Fun fact: I did Google interview and was told I'm not that good of a JS developer :) So that's out of the way",
     double: false
   },
   {
@@ -83,7 +92,7 @@ module.exports = [
     bio: "Stripe",
     avatar: "slexaxton.jpg",
     story:
-      "I didn't get past the Twitter phone screen. Not in the beginning of my career, like 3 years ago.",
+        "I didn't get past the Twitter phone screen. Not in the beginning of my career, like 3 years ago.",
     double: false
   },
   {
@@ -93,7 +102,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "drjorts.jpg",
     story:
-      "I was rejected without interview at Dropbox. Escorted out halfway through my Microsoft interview. Now I'm senior eng at Twitter.",
+        "I was rejected without interview at Dropbox. Escorted out halfway through my Microsoft interview. Now I'm senior eng at Twitter.",
     double: false
   },
   {
@@ -103,7 +112,7 @@ module.exports = [
     bio: "Open Table",
     avatar: "tlhunter.jpg",
     story:
-      "A year and a half after being rejected by a popular payment gateway company I finally got my senior software title at a company where I write ES6 all day.",
+        "A year and a half after being rejected by a popular payment gateway company I finally got my senior software title at a company where I write ES6 all day.",
     double: false
   },
   {
@@ -113,7 +122,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "skilldrick.jpg",
     story:
-      "Facebook rejected me just before Twitter hired me. I was very junior then though, so don't really blame them.",
+        "Facebook rejected me just before Twitter hired me. I was very junior then though, so don't really blame them.",
     double: false
   },
   {
@@ -123,7 +132,7 @@ module.exports = [
     bio: "jQuery",
     avatar: "agcolom.jpg",
     story:
-      "I was refused a reference by my supervisor in France who thought the male student on my team did all the work.",
+        "I was refused a reference by my supervisor in France who thought the male student on my team did all the work.",
     double: false
   },
   {
@@ -133,7 +142,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "kng.jpg",
     story:
-      "I was rejected by YouTube and Pinterest before landing an awesome role at Twitter.",
+        "I was rejected by YouTube and Pinterest before landing an awesome role at Twitter.",
     double: false
   },
   {
@@ -143,7 +152,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "samuelmaskell.jpg",
     story:
-      "Over the course of 9 months, I had tons of interviews, most of which I thought went very well, and I just kept getting rejected. I was ready to drastically lower my bar. Then, within about 5 days, I got an offer from both Twitter and Amazon.",
+        "Over the course of 9 months, I had tons of interviews, most of which I thought went very well, and I just kept getting rejected. I was ready to drastically lower my bar. Then, within about 5 days, I got an offer from both Twitter and Amazon.",
     double: true
   },
   {
@@ -153,7 +162,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "vikasgorur.jpg",
     story:
-      "Got rejected by a storage startup despite extremely relevant experience. Interview was 5 whiteboard coding problems. I did well on three of them and okayish on the other two. Interviewed at Twitter three days and got an offer.",
+        "Got rejected by a storage startup despite extremely relevant experience. Interview was 5 whiteboard coding problems. I did well on three of them and okayish on the other two. Interviewed at Twitter three days and got an offer.",
     double: false
   },
   {
@@ -163,7 +172,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "caraesten.jpg",
     story:
-      "I had an interview with Scribd, who I really liked at the time, and totally bombed. Blanked out on writing a linked list in Python.",
+        "I had an interview with Scribd, who I really liked at the time, and totally bombed. Blanked out on writing a linked list in Python.",
     double: false
   },
   {
@@ -173,7 +182,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "sangster.jpg",
     story:
-      "I was rejected at Amazon and other companies with no technical interviews because I wasn't a Java engineer.",
+        "I was rejected at Amazon and other companies with no technical interviews because I wasn't a Java engineer.",
     double: false
   },
   {
@@ -183,7 +192,7 @@ module.exports = [
     bio: "Twitter",
     avatar: "miguelrios.jpg",
     story:
-      "Before Twitter, I was rejected twice by big tech co, which only interviewed me cuz I had a scholarship they gave to Latino students.",
+        "Before Twitter, I was rejected twice by big tech co, which only interviewed me cuz I had a scholarship they gave to Latino students.",
     double: false
   },
   {
@@ -193,7 +202,7 @@ module.exports = [
     bio: "Apple",
     avatar: "mxcl.jpg",
     story:
-      "Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.",
+        "Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.",
     double: true
   },
   {
@@ -203,7 +212,7 @@ module.exports = [
     bio: "Yahoo",
     avatar: "bengl.jpg",
     story:
-      "Rejected by Google, Twitter, Square and Airbnb for bombing the on-site onslaughts of technical mindbogglery. One startup even cut me out mid-interview one time (can't remember which one). Now I'm at Yahoo doing npm things, which is a pretty sweet gig.",
+        "Rejected by Google, Twitter, Square and Airbnb for bombing the on-site onslaughts of technical mindbogglery. One startup even cut me out mid-interview one time (can't remember which one). Now I'm at Yahoo doing npm things, which is a pretty sweet gig.",
     double: true
   },
   {
@@ -213,7 +222,7 @@ module.exports = [
     bio: "IBM",
     avatar: "thealphanerd.jpg",
     story:
-      "First time interviewing I didn't get past the phone screen at google, twitter, or a number of other places. A startup offered me a 10 week internship way below market rate. I held out and got a decent job at Famous Industries where I got a ton of excellent opportunities.",
+        "First time interviewing I didn't get past the phone screen at google, twitter, or a number of other places. A startup offered me a 10 week internship way below market rate. I held out and got a decent job at Famous Industries where I got a ton of excellent opportunities.",
     double: false
   },
   {
@@ -223,7 +232,7 @@ module.exports = [
     bio: "Transloadit",
     avatar: "kvz.jpg",
     story:
-      "I was phone-screened by Google late 2010. I was nervous and unhappy with my performance but they never shared honest feedback or gave me a chance to set things straight.",
+        "I was phone-screened by Google late 2010. I was nervous and unhappy with my performance but they never shared honest feedback or gave me a chance to set things straight.",
     double: false
   },
   {
@@ -233,7 +242,7 @@ module.exports = [
     bio: "Cirqle",
     avatar: "brandonweis.jpg",
     story:
-      "Rejected by Zenefits for not being expressive enough in implementing JavaScript serialized execution of async functions using callback. Got offered a senior position but didn't get it due to no work authorization. Both happened in the same afternoon. Still not giving up.",
+        "Rejected by Zenefits for not being expressive enough in implementing JavaScript serialized execution of async functions using callback. Got offered a senior position but didn't get it due to no work authorization. Both happened in the same afternoon. Still not giving up.",
     double: true
   },
   {
@@ -252,7 +261,7 @@ module.exports = [
     bio: "GoDaddy",
     avatar: "indexzero.jpg",
     story:
-      "Was rejected by Google in New York in 2007 because I could not figure out how to list all subsets of a set correctly. I founded Nodejitsu and now work at GoDaddy.",
+        "Was rejected by Google in New York in 2007 because I could not figure out how to list all subsets of a set correctly. I founded Nodejitsu and now work at GoDaddy.",
     double: false
   },
   {
@@ -262,7 +271,7 @@ module.exports = [
     bio: "Microsoft",
     avatar: "jdalton.jpg",
     story:
-      "I was rejected by Google, Mozilla, and Twitter before being hired by Microsoft. No ragrets.",
+        "I was rejected by Google, Mozilla, and Twitter before being hired by Microsoft. No ragrets.",
     double: false
   },
   {
@@ -272,7 +281,7 @@ module.exports = [
     bio: "Facebook",
     avatar: "sebmck.jpg",
     story:
-      "Got rejected from a junior position at Atlassian for not knowing enough about JavaScript. Shortly after they now use the JavaScript compiler that I wrote across most of their JavaScript stack.",
+        "Got rejected from a junior position at Atlassian for not knowing enough about JavaScript. Shortly after they now use the JavaScript compiler that I wrote across most of their JavaScript stack.",
     double: false
   },
   {
@@ -282,7 +291,7 @@ module.exports = [
     bio: "CertSimple",
     avatar: "mikemaccana.jpg",
     story:
-      "Got rejected by Google and within a few months was working there as a contractor. Later one of my projects was used in their recruiting ads as the kind of awesome work you can do at Google.",
+        "Got rejected by Google and within a few months was working there as a contractor. Later one of my projects was used in their recruiting ads as the kind of awesome work you can do at Google.",
     double: false
   },
   {
@@ -292,7 +301,7 @@ module.exports = [
     bio: "OSS",
     avatar: "shaunlebron.jpg",
     story:
-      "I wondered what I was really worth after getting rejected by two silicon valley startups. So I decided to stop giving up on my side projects.",
+        "I wondered what I was really worth after getting rejected by two silicon valley startups. So I decided to stop giving up on my side projects.",
     double: false
   },
   {
@@ -302,7 +311,7 @@ module.exports = [
     bio: "Vine",
     avatar: "rlph.jpg",
     story:
-      "I failed an interview at eGain for not knowing all the options on $.ajax. Went on to work for Bitovi and now Twitter / Vine.",
+        "I failed an interview at eGain for not knowing all the options on $.ajax. Went on to work for Bitovi and now Twitter / Vine.",
     double: false
   },
   {
@@ -312,7 +321,7 @@ module.exports = [
     bio: "Microsoft",
     avatar: "AdamTReineke.jpg",
     story:
-      'At a college career fair, a Midwest healthcare company handed my resume back because GPA was too low, saying "save the paper". I went on to spend two great internships at Microsoft where I\'ve continued full-time for over two years now.',
+        'At a college career fair, a Midwest healthcare company handed my resume back because GPA was too low, saying "save the paper". I went on to spend two great internships at Microsoft where I\'ve continued full-time for over two years now.',
     double: true
   },
   {
@@ -322,7 +331,7 @@ module.exports = [
     bio: "OSS",
     avatar: "Sinanm89.jpg",
     story:
-      "A swedish startup company dropped from skype mid call after I told them I was born in Turkey. Im still blocked to this day.",
+        "A swedish startup company dropped from skype mid call after I told them I was born in Turkey. Im still blocked to this day.",
     double: false
   },
   {
@@ -332,7 +341,7 @@ module.exports = [
     bio: "IMDB",
     avatar: "lloydwatkin.jpg",
     story:
-      "I was rejected by a top 10 website because I don't use semi-colons in my JavaScript. Now at IMDb / Amazon. Don't let them get you down :)",
+        "I was rejected by a top 10 website because I don't use semi-colons in my JavaScript. Now at IMDb / Amazon. Don't let them get you down :)",
     double: false
   },
   {
@@ -342,7 +351,7 @@ module.exports = [
     bio: "Amazon",
     avatar: "abr71310.jpg",
     story:
-      "I got turned away from every return offer from internships I had (7), as well as 85 companies I applied to for full-time (even after getting to onsites for over 15 of them!). I now work at Amazon and love what I'm doing. :)",
+        "I got turned away from every return offer from internships I had (7), as well as 85 companies I applied to for full-time (even after getting to onsites for over 15 of them!). I now work at Amazon and love what I'm doing. :)",
     double: false
   },
   {
@@ -352,7 +361,7 @@ module.exports = [
     bio: "Microsoft",
     avatar: "sebastianbk.jpg",
     story:
-      "While finishing up my master's degree I was sending out tons of applications to big corps for software development jobs but I was rejected by virtually all of them. One week I was rejected by two companies I really wanted to work for so I was sad and got drunk in the weekend. The following Monday I had an offer from Microsoft sitting in my inbox.",
+        "While finishing up my master's degree I was sending out tons of applications to big corps for software development jobs but I was rejected by virtually all of them. One week I was rejected by two companies I really wanted to work for so I was sad and got drunk in the weekend. The following Monday I had an offer from Microsoft sitting in my inbox.",
     double: true
   },
   {
@@ -362,7 +371,7 @@ module.exports = [
     bio: "Trivago",
     avatar: "iandevlin.jpg",
     story:
-      "Rejected by the Google HTML5 Developer Expert programme for not knowing enough about HTML5. Apparently being one of the HTML5 Doctors, writing many articles on the subject and having a book on HTML5 Multimedia being published wasn't enough for them.",
+        "Rejected by the Google HTML5 Developer Expert programme for not knowing enough about HTML5. Apparently being one of the HTML5 Doctors, writing many articles on the subject and having a book on HTML5 Multimedia being published wasn't enough for them.",
     double: false
   },
   {
@@ -372,7 +381,7 @@ module.exports = [
     bio: "Mozilla",
     avatar: "grmpyprogrammer.jpg",
     story:
-      "I interviewed at Mozilla in 2008. I ran a gauntlet of 10 interviews in 8 hours. Didn’t get it. Ended up there Nov. 2015 anyway ;)",
+        "I interviewed at Mozilla in 2008. I ran a gauntlet of 10 interviews in 8 hours. Didn’t get it. Ended up there Nov. 2015 anyway ;)",
     double: false
   },
   {
@@ -382,7 +391,7 @@ module.exports = [
     bio: "Microsoft",
     avatar: "reybango.jpg",
     story:
-      "I was rejected by Arthur Andersen Consulting in the '90s because I didn't have an undergraduate degree and also by a number of well-known Silicon Valley companies because I couldn't relocate. Since then I've worked at great companies like Mozilla, Telerik & Microsoft, all remotely and with no undergrad degree.",
+        "I was rejected by Arthur Andersen Consulting in the '90s because I didn't have an undergraduate degree and also by a number of well-known Silicon Valley companies because I couldn't relocate. Since then I've worked at great companies like Mozilla, Telerik & Microsoft, all remotely and with no undergrad degree.",
     double: true
   },
   {
@@ -392,7 +401,7 @@ module.exports = [
     bio: "WatchMeCode",
     avatar: "derickbailey.jpg",
     story:
-      "I was told by a hiring manager at Netflix that my career would be over if I wasn't willing to relocate my family to San Francisco. Since then, I've had 2 full time jobs that were 100% remote (work from home), have been a full time consultant with clients around the world (Germany, Japan, Denmark, South America, Canada, and all over the U.S.) Now, I'm an entrepreneur as well as consultant, I work less hours than any full time job I've ever had, and I earn more than ever.",
+        "I was told by a hiring manager at Netflix that my career would be over if I wasn't willing to relocate my family to San Francisco. Since then, I've had 2 full time jobs that were 100% remote (work from home), have been a full time consultant with clients around the world (Germany, Japan, Denmark, South America, Canada, and all over the U.S.) Now, I'm an entrepreneur as well as consultant, I work less hours than any full time job I've ever had, and I earn more than ever.",
     double: true
   },
   {
@@ -402,7 +411,7 @@ module.exports = [
     bio: "Domo",
     avatar: "geddski.jpg",
     story:
-      "I totally bombed an interview at Trello about implementing linked lists in JavaScript. Today I’m a JS Architect at Domo.",
+        "I totally bombed an interview at Trello about implementing linked lists in JavaScript. Today I’m a JS Architect at Domo.",
     double: false
   },
   {
@@ -412,7 +421,7 @@ module.exports = [
     bio: "OSS",
     avatar: "xyclos.jpg",
     story:
-      'I was rejected by Amazon. I waited around for an hour for a phone interview with their "head of acquisitions". He emailed me later that night saying he didn\'t have my phone number. My number was in the email he replied to 😒. He ignored all my attempts to reschedule.',
+        'I was rejected by Amazon. I waited around for an hour for a phone interview with their "head of acquisitions". He emailed me later that night saying he didn\'t have my phone number. My number was in the email he replied to 😒. He ignored all my attempts to reschedule.',
     double: false
   },
   {
@@ -422,7 +431,7 @@ module.exports = [
     bio: "IBM",
     avatar: "ohhoe.jpg",
     story:
-      "When I graduated from a less than desirable college, no employers in New York would take me seriously... so I moved to St. Louis. Everyone in the midwest didn't care where I went to school, and instead I was highly in demand as a developer with a design background. I worked in agencies for 3 years, until I got a job offer from Adobe and moved back to NYC. Now I'm at IBM Watson, and it's the best.",
+        "When I graduated from a less than desirable college, no employers in New York would take me seriously... so I moved to St. Louis. Everyone in the midwest didn't care where I went to school, and instead I was highly in demand as a developer with a design background. I worked in agencies for 3 years, until I got a job offer from Adobe and moved back to NYC. Now I'm at IBM Watson, and it's the best.",
     double: true
   },
   {
@@ -432,7 +441,7 @@ module.exports = [
     bio: "Pivotal",
     avatar: "spencerbgibb.jpg",
     story:
-      "Interviewed at Netflix, didn't get the job. At Pivotal, I helped create Spring Cloud Netflix which integrates Netflix Open Source with Spring Boot. Now Netflix uses Spring Cloud Netflix... at Netflix.",
+        "Interviewed at Netflix, didn't get the job. At Pivotal, I helped create Spring Cloud Netflix which integrates Netflix Open Source with Spring Boot. Now Netflix uses Spring Cloud Netflix... at Netflix.",
     double: false
   },
   {
@@ -442,7 +451,7 @@ module.exports = [
     bio: "IBM",
     avatar: "jasonshen.jpg",
     story:
-      "Applied to the Harvard Business School as a Stanford honors grad with a 740 GMAT, no interview. Was rejected from Airbnb for a customer support role and later was passed over for a PM role at Google after 2 phone screens.\nI've cofounded Y Combinator startup (Ridejoy YC S11) and was selected by the White House to serve as a Presidential Innovation Fellow. Today I'm a product manager at Etsy. Timing and fit are everything.",
+        "Applied to the Harvard Business School as a Stanford honors grad with a 740 GMAT, no interview. Was rejected from Airbnb for a customer support role and later was passed over for a PM role at Google after 2 phone screens.\nI've cofounded Y Combinator startup (Ridejoy YC S11) and was selected by the White House to serve as a Presidential Innovation Fellow. Today I'm a product manager at Etsy. Timing and fit are everything.",
     double: true
   },
   {
@@ -452,7 +461,7 @@ module.exports = [
     bio: "Google",
     avatar: "dhananjaynakrani.jpg",
     story:
-      "During campus-placements in undergrad, interviewed with Samsung-India. Due to favoritism, I was rejected. Almost lost faith from meritocracy. Later got to do Google Summer of Code (Summer'14) and Google Internship (Summer'15). In grad school, received full time offers from both Yahoo & Google. Now, headed to Google for full time. Still, I have a long way to go. ;) My point is, don't lose faith because of a few incidents. Keep working. \"Adventure is out there!\"",
+        "During campus-placements in undergrad, interviewed with Samsung-India. Due to favoritism, I was rejected. Almost lost faith from meritocracy. Later got to do Google Summer of Code (Summer'14) and Google Internship (Summer'15). In grad school, received full time offers from both Yahoo & Google. Now, headed to Google for full time. Still, I have a long way to go. ;) My point is, don't lose faith because of a few incidents. Keep working. \"Adventure is out there!\"",
     double: true
   },
   {
@@ -462,7 +471,7 @@ module.exports = [
     bio: "Mozilla",
     avatar: "angelcolberg.jpg",
     story:
-      "I've been rejected by Google, Apple and FB. Ended up working with Microsoft, Apple, Google and Mozilla. Never take it personal.",
+        "I've been rejected by Google, Apple and FB. Ended up working with Microsoft, Apple, Google and Mozilla. Never take it personal.",
     double: false
   },
   {
@@ -472,7 +481,7 @@ module.exports = [
     bio: "Monsanto",
     avatar: "wyze.jpg",
     story:
-      "I was rejected by Facebook and Netflix at the technical interview/coding exercises. Now I write ES2015 && React all day at Monsanto.",
+        "I was rejected by Facebook and Netflix at the technical interview/coding exercises. Now I write ES2015 && React all day at Monsanto.",
     double: false
   },
   {
@@ -482,7 +491,7 @@ module.exports = [
     bio: "OSS",
     avatar: "salcedo.jpg",
     story:
-      "Got rejected by Linode because I'm a convicted hacker. Shortly thereafter, I won $50 Linode credit and a Raspberry Pi 2 through a Linode-sponsored challenge on True Ability. They probably think I hacked that too.",
+        "Got rejected by Linode because I'm a convicted hacker. Shortly thereafter, I won $50 Linode credit and a Raspberry Pi 2 through a Linode-sponsored challenge on True Ability. They probably think I hacked that too.",
     double: false
   },
   {
@@ -492,7 +501,7 @@ module.exports = [
     bio: "OSS",
     avatar: "stevenhauser.jpg",
     story:
-      "Rejected by GitHub for a frontend developer opening because my HTML, CSS, and JS skills were strong, but I failed to demonstrate my Ruby skills.",
+        "Rejected by GitHub for a frontend developer opening because my HTML, CSS, and JS skills were strong, but I failed to demonstrate my Ruby skills.",
     double: false
   },
   {
@@ -502,7 +511,7 @@ module.exports = [
     bio: "OSS",
     avatar: "rcorrear.jpg",
     story:
-      "After applying for a Senior Development Engineer position at Amazon I get an email from HR for the Senior Cloud Support Engineer position. After two (technical) phone interviews and an 8 hour on-site multi team interview I get back the results: You really did very well in the interviews, but we're not extending an offer because you are a better fit for our Senior Development Engineer position!!",
+        "After applying for a Senior Development Engineer position at Amazon I get an email from HR for the Senior Cloud Support Engineer position. After two (technical) phone interviews and an 8 hour on-site multi team interview I get back the results: You really did very well in the interviews, but we're not extending an offer because you are a better fit for our Senior Development Engineer position!!",
     double: true
   },
   {
@@ -512,7 +521,7 @@ module.exports = [
     bio: "BlackBerry",
     avatar: "rajatonit.jpg",
     story:
-      "Was rejected by many companies which one of them was AutoDesk whom escorted me out of their office midway through the interview for having more knowledge of java over C++. I kept at it and now work at BlackBerry as my job. #StickWithIt",
+        "Was rejected by many companies which one of them was AutoDesk whom escorted me out of their office midway through the interview for having more knowledge of java over C++. I kept at it and now work at BlackBerry as my job. #StickWithIt",
     double: false
   },
   {
@@ -522,7 +531,7 @@ module.exports = [
     bio: "OSS",
     avatar: "notasausage.jpg",
     story:
-      'Apple interviewed me 4 times for 3 positions, all while I was employed at Harvard University. I even had to talk through designing the "iStove" for Steve Jobs and explain how Google Maps worked using a whiteboard. They never hired me and I left Harvard to work for myself a year later.',
+        'Apple interviewed me 4 times for 3 positions, all while I was employed at Harvard University. I even had to talk through designing the "iStove" for Steve Jobs and explain how Google Maps worked using a whiteboard. They never hired me and I left Harvard to work for myself a year later.',
     double: false
   },
   {
@@ -532,7 +541,7 @@ module.exports = [
     bio: "InVision",
     avatar: "lindseytron.jpg",
     story:
-      "Interviewed and rejected by two local startups in medical and education spaces. They talked down to me during my interview, wouldn't respond to emails, and left me hanging. The following week I landed my job at InVision. :)",
+        "Interviewed and rejected by two local startups in medical and education spaces. They talked down to me during my interview, wouldn't respond to emails, and left me hanging. The following week I landed my job at InVision. :)",
     double: false
   },
   {
@@ -542,7 +551,7 @@ module.exports = [
     bio: "Cascade & PHPPowerTools",
     avatar: "johnslegers.jpg",
     story:
-      "For frontend developer jobs, I'm usually told I don't have enough design skills. For backend developer jobs, I'm usually told I don't have enough experience in this or that framework. I'm currently unemployed.",
+        "For frontend developer jobs, I'm usually told I don't have enough design skills. For backend developer jobs, I'm usually told I don't have enough experience in this or that framework. I'm currently unemployed.",
     double: false
   },
   {
@@ -552,7 +561,7 @@ module.exports = [
     bio: "OSS",
     avatar: "pkayfire.jpg",
     story:
-      "Rejected by AngelList because I froze up during an interview and forgot the fibonacci sequence (seriously). Received an offer from Stripe a month later. Now cofounder at a top 500 US site. Never ever give up.",
+        "Rejected by AngelList because I froze up during an interview and forgot the fibonacci sequence (seriously). Received an offer from Stripe a month later. Now cofounder at a top 500 US site. Never ever give up.",
     double: false
   },
   {
@@ -562,7 +571,7 @@ module.exports = [
     bio: "OSS",
     avatar: "markmarkoh.jpg",
     story:
-      "I was literally asked to leave the office 15 minutes into the interview. The guy said \"I don't think either of us should waste any more of our time\" and turned around to face his computer. I sat in the parking lot for 30 minutes thinking I'd never be a developer.",
+        "I was literally asked to leave the office 15 minutes into the interview. The guy said \"I don't think either of us should waste any more of our time\" and turned around to face his computer. I sat in the parking lot for 30 minutes thinking I'd never be a developer.",
     double: false
   },
   {
@@ -572,7 +581,7 @@ module.exports = [
     bio: "Bocoup",
     avatar: "ajpiano.jpg",
     story:
-      "I wanted to be a professional football player but the New York Jets didn't want me because I couldn't run a sub-4.3 second 40 yard dash. Now I am Director of Community at Bocoup so I like to think I landed on my feet.",
+        "I wanted to be a professional football player but the New York Jets didn't want me because I couldn't run a sub-4.3 second 40 yard dash. Now I am Director of Community at Bocoup so I like to think I landed on my feet.",
     double: false
   },
   {
@@ -582,7 +591,7 @@ module.exports = [
     bio: "adidas",
     avatar: "humantorch.jpg",
     story:
-      "Survived multiple phone and Skype interviews with Apple (from Europe) as well as a take-home developer assignment. Flew to Cupertino for a round of in-person, highly technical interviews less than 24 hours after a 14 hour flight. Got my rejection notice 3 hours afterwards. Ended up as a Director in a production company and am now a Senior Digital Manager at adidas.",
+        "Survived multiple phone and Skype interviews with Apple (from Europe) as well as a take-home developer assignment. Flew to Cupertino for a round of in-person, highly technical interviews less than 24 hours after a 14 hour flight. Got my rejection notice 3 hours afterwards. Ended up as a Director in a production company and am now a Senior Digital Manager at adidas.",
     double: true
   },
   {
@@ -592,7 +601,7 @@ module.exports = [
     bio: "Front-end Developer",
     avatar: "lyn.jpg",
     story:
-      "After bootcamp, I was rejected over 50 times in three months by companies like Pandora, Twilio, and Zendesk for not having enough experience. Received an offer with an amazing company and now I motivate youth and others like me to succeed. Never let anyone tell you that you're not worthy. Keep going.",
+        "After bootcamp, I was rejected over 50 times in three months by companies like Pandora, Twilio, and Zendesk for not having enough experience. Received an offer with an amazing company and now I motivate youth and others like me to succeed. Never let anyone tell you that you're not worthy. Keep going.",
     double: false
   },
   {
@@ -602,7 +611,7 @@ module.exports = [
     bio: "Self Employed",
     avatar: "rwilki.jpg",
     story:
-      "I submitted applications to Sucuri, Buffer, and Road Runner Sports in hopes of furthering my career as a web and graphic designer. Ultimately, my career path has evolved just fine as I'm busier now more than ever working for myself. I'm challenged, rewarded, and love what I do. If I could manage the stress, it would be all good.",
+        "I submitted applications to Sucuri, Buffer, and Road Runner Sports in hopes of furthering my career as a web and graphic designer. Ultimately, my career path has evolved just fine as I'm busier now more than ever working for myself. I'm challenged, rewarded, and love what I do. If I could manage the stress, it would be all good.",
     double: false
   },
   {
@@ -612,7 +621,7 @@ module.exports = [
     bio: "Facebook",
     avatar: "sagar.jpg",
     story:
-      "As I was finishing my Masters' I applied to so many companies that I was getting a rejection at least once a day. If I search my inbox for the word 'regret', I get over a hundred emails of these rejections. But I kept applying and kept interviewing. I finally got some offers and worked at companies like PayPal, Lyft and Facebook; after a lot of perseverance. You don't have to be great to start, but you have to start to be great.",
+        "As I was finishing my Masters' I applied to so many companies that I was getting a rejection at least once a day. If I search my inbox for the word 'regret', I get over a hundred emails of these rejections. But I kept applying and kept interviewing. I finally got some offers and worked at companies like PayPal, Lyft and Facebook; after a lot of perseverance. You don't have to be great to start, but you have to start to be great.",
     double: true
   },
   {
@@ -622,7 +631,7 @@ module.exports = [
     bio: "markakod",
     avatar: "eray.jpg",
     story:
-      "Rejected by Valve Software for a Software Engineer position because i was young. (when i was 19)",
+        "Rejected by Valve Software for a Software Engineer position because i was young. (when i was 19)",
     double: false
   },
   {
@@ -632,7 +641,7 @@ module.exports = [
     bio: "🐐",
     avatar: "samccone.jpg",
     story:
-      "I could not even get an unpaid internship at a newspaper because I was going to add too much overhead. 🆒",
+        "I could not even get an unpaid internship at a newspaper because I was going to add too much overhead. 🆒",
     double: false
   },
   {
@@ -642,7 +651,7 @@ module.exports = [
     bio: "Anonymous",
     avatar: "anonymous.jpg",
     story:
-      "I'm originally from India. I have been rejected by 10-15 universities before landing in Virginia Tech. It took me 3 years to get my first admit. During my grad school I have been rejected by Google for not knowing their book search algorithm :-). Rejected by Microsoft for whatever reason and I blew up Amazon interview. Now work at European company in New England. Still eager to go to Silicon Valley, maybe 2016 is my year.",
+        "I'm originally from India. I have been rejected by 10-15 universities before landing in Virginia Tech. It took me 3 years to get my first admit. During my grad school I have been rejected by Google for not knowing their book search algorithm :-). Rejected by Microsoft for whatever reason and I blew up Amazon interview. Now work at European company in New England. Still eager to go to Silicon Valley, maybe 2016 is my year.",
     double: true
   },
   {
@@ -652,7 +661,7 @@ module.exports = [
     bio: "OSS",
     avatar: "daVinciCEB.jpg",
     story:
-      "I was at the University of Illinois at Urbana-Champaign for a year. The school academics office was telling me that I had to take three semesters of Physics, including Quantum Physics and Thermodynamics, and that if I didn't like that, then I didn't belong at the school. I dropped out, and was almost immediately hired as a freelance contractor at a billion dollar investment company, and told that I could name my own price. Suck it, UIUC.",
+        "I was at the University of Illinois at Urbana-Champaign for a year. The school academics office was telling me that I had to take three semesters of Physics, including Quantum Physics and Thermodynamics, and that if I didn't like that, then I didn't belong at the school. I dropped out, and was almost immediately hired as a freelance contractor at a billion dollar investment company, and told that I could name my own price. Suck it, UIUC.",
     double: true
   },
   {
@@ -662,7 +671,7 @@ module.exports = [
     bio: "OSS",
     avatar: "marshmallowmouth.jpg",
     story:
-      'In my junior year of college, I had a phone interview with Apple for an internship. They asked me a question that took me a bit of time to answer, and the interviewer cut me off in the middle, saying "if you can\'t answer a question that is so simple quickly how could you expect to be hired by Apple." I went on to be hired at Microsoft, and then Apple and then get into a Ph.D. program.',
+        'In my junior year of college, I had a phone interview with Apple for an internship. They asked me a question that took me a bit of time to answer, and the interviewer cut me off in the middle, saying "if you can\'t answer a question that is so simple quickly how could you expect to be hired by Apple." I went on to be hired at Microsoft, and then Apple and then get into a Ph.D. program.',
     double: false
   },
   {
@@ -672,7 +681,7 @@ module.exports = [
     bio: "Popcorn Time",
     avatar: "abad.jpg",
     story:
-      "Rejected by Twitter, got depressed but then I created Popcorn Time!. Don't lose hope and keep your head up, adventures are around the corner!",
+        "Rejected by Twitter, got depressed but then I created Popcorn Time!. Don't lose hope and keep your head up, adventures are around the corner!",
     double: false
   },
   {
@@ -682,7 +691,7 @@ module.exports = [
     bio: "OSS",
     avatar: "battlesnake.jpg",
     story:
-      "Rejected by various small companies, have since rejected Google and Amazon and am working on space technologies",
+        "Rejected by various small companies, have since rejected Google and Amazon and am working on space technologies",
     double: false
   },
   {
@@ -692,7 +701,7 @@ module.exports = [
     bio: "Accessibility Consultant",
     avatar: "gregtarnoff.jpg",
     story:
-      "I applied to a job for Web Accessibilty Engineer with Expedia and was rejected due to 'not having enough experience'.",
+        "I applied to a job for Web Accessibilty Engineer with Expedia and was rejected due to 'not having enough experience'.",
     double: false
   },
   {
@@ -702,7 +711,7 @@ module.exports = [
     bio: "Wikibuy",
     avatar: "victortrac.jpg",
     story:
-      "As a freshly minted EE, American Megatrends rejected me as a BIOS engineer. I decided to move to and work in Europe for 4 years, where I got to travel extensively, and then took a job at a startup in Austin, TX, having never visited the state before. The startup grew and even IPO'd, and since then I've had a great time back in the startup game.",
+        "As a freshly minted EE, American Megatrends rejected me as a BIOS engineer. I decided to move to and work in Europe for 4 years, where I got to travel extensively, and then took a job at a startup in Austin, TX, having never visited the state before. The startup grew and even IPO'd, and since then I've had a great time back in the startup game.",
     double: true
   },
   {
@@ -712,7 +721,7 @@ module.exports = [
     bio: "Smashing Magazine",
     avatar: "nice2meatu.jpg",
     story:
-      "In late 2012, during a phone interview, I was told that, by judging from my résumé, I might better look for a trainee position. One week later I applied at Smashing Magazine and was hired right away – full time.",
+        "In late 2012, during a phone interview, I was told that, by judging from my résumé, I might better look for a trainee position. One week later I applied at Smashing Magazine and was hired right away – full time.",
     double: false
   },
   {
@@ -722,7 +731,7 @@ module.exports = [
     bio: "Software Engineer",
     avatar: "lukeyschunk.jpg",
     story:
-      "When I was a designer, I was rejected from countless internships and junior positions at agencies like Huge, RGA, and more. Decided to learn to code and can't wait to apply to some of those companies again - as a developer.",
+        "When I was a designer, I was rejected from countless internships and junior positions at agencies like Huge, RGA, and more. Decided to learn to code and can't wait to apply to some of those companies again - as a developer.",
     double: true
   },
   {
@@ -732,7 +741,7 @@ module.exports = [
     bio: "Software Engineer",
     avatar: "troy0820.jpg",
     story:
-      "Got rejected from Dominion Enterprises fresh out of college trying to do some PHP.  I attended Meetups with Norfolk.js and found myself in a great community.  I contributed to open source and was very apprehensive about leaving my government job to become a developer.  I met great people who encouraged me and helped me get rid of my imposter syndrome.  Now I'm a full-time Software Engineer with Emerging Technology Advisors.  Keep fighting for it.",
+        "Got rejected from Dominion Enterprises fresh out of college trying to do some PHP.  I attended Meetups with Norfolk.js and found myself in a great community.  I contributed to open source and was very apprehensive about leaving my government job to become a developer.  I met great people who encouraged me and helped me get rid of my imposter syndrome.  Now I'm a full-time Software Engineer with Emerging Technology Advisors.  Keep fighting for it.",
     double: true
   },
   {
@@ -742,7 +751,7 @@ module.exports = [
     bio: "Software Engineer",
     avatar: "TimChristine.jpg",
     story:
-      "Rejected by MIT for undergrad, accepted to the computer science Ph.D program. (I chose Berkeley for grad school instead.) Rejected by Google in 2003, 2006, and 2007; hired by Google in 2015. Previously rejected by Facebook, Twitter, and Apple.",
+        "Rejected by MIT for undergrad, accepted to the computer science Ph.D program. (I chose Berkeley for grad school instead.) Rejected by Google in 2003, 2006, and 2007; hired by Google in 2015. Previously rejected by Facebook, Twitter, and Apple.",
     double: true
   },
   {
@@ -752,7 +761,7 @@ module.exports = [
     bio: "Senior Software Engineer",
     avatar: "nfriedly.jpg",
     story:
-      'I was rejected for a Software Developer role at smaller company because I was "junior-level" and had bad motivation. A few months later I joined IBM as an Advisory Engineer and helped launch IBM Watson.',
+        'I was rejected for a Software Developer role at smaller company because I was "junior-level" and had bad motivation. A few months later I joined IBM as an Advisory Engineer and helped launch IBM Watson.',
     double: false
   },
   {
@@ -762,7 +771,7 @@ module.exports = [
     bio: "Software Engineer at Slack",
     avatar: "fvcproductions.jpg",
     story:
-      "I was rejected for a developer advocate role at a startup that helps people sign documents where I was 1 of 2 finalists after a lengthy interview process. When I asked for feeback on what I could have done better, the recruiter told me that in all his years as a recruiter, he's never been in a position where he wasn't able to provide any feedback. Later, I found out that the guy who got hired went to the same school as the hiring manager. This was the first time I felt a strong sense of imposter syndrome in the tech industry. One month later, I got an offer from Slack. Perseverance is key.",
+        "I was rejected for a developer advocate role at a startup that helps people sign documents where I was 1 of 2 finalists after a lengthy interview process. When I asked for feeback on what I could have done better, the recruiter told me that in all his years as a recruiter, he's never been in a position where he wasn't able to provide any feedback. Later, I found out that the guy who got hired went to the same school as the hiring manager. This was the first time I felt a strong sense of imposter syndrome in the tech industry. One month later, I got an offer from Slack. Perseverance is key.",
     double: true
   },
   {
@@ -772,7 +781,7 @@ module.exports = [
     bio: "Dad, Husband, 20 year linux veteran, 19 year python veteran",
     avatar: "gregoryjordanm.jpg",
     story:
-      'Rejected by the leading debian-based linux distribution because "I don\'t have a college degree", otherwise, they loved  my experience.',
+        'Rejected by the leading debian-based linux distribution because "I don\'t have a college degree", otherwise, they loved  my experience.',
     double: false
   },
   {
@@ -782,7 +791,7 @@ module.exports = [
     bio: "Software Engineer",
     avatar: "developeralan.jpeg",
     story:
-      'Rejected by Freelancer because I did not have a degree 3 years ago. Now about to graduate with a relevant degree with a Distinction average whilst working as a full-time software engineer at other software-based companies.',
+        'Rejected by Freelancer because I did not have a degree 3 years ago. Now about to graduate with a relevant degree with a Distinction average whilst working as a full-time software engineer at other software-based companies.',
     double: false
   },
   {
@@ -792,7 +801,7 @@ module.exports = [
     bio: "Engineering Lead, GitHub",
     avatar: "kylemacey.jpg",
     story:
-      'I was rejected by GitHub twice before getting accepted into a Professional Services role. I since have founded an engineering team at GitHub and built some really cool stuff!',
+        'I was rejected by GitHub twice before getting accepted into a Professional Services role. I since have founded an engineering team at GitHub and built some really cool stuff!',
     double: false
   },
   {
@@ -802,7 +811,7 @@ module.exports = [
     bio: "Tentrr",
     avatar: "zpfreed.jpg",
     story:
-      'Out of the many, the best were in the same week. On Monday I was told I was "too UI-focused" for the first role at a larger company, on Wednesday I was "too UX-focused" for a smaller team, and then on Thursday someone commented "you seem pretty technical for a designer...this isn\'t a developer role."',
+        'Out of the many, the best were in the same week. On Monday I was told I was "too UI-focused" for the first role at a larger company, on Wednesday I was "too UX-focused" for a smaller team, and then on Thursday someone commented "you seem pretty technical for a designer...this isn\'t a developer role."',
     double: false
   },
   {
@@ -812,7 +821,7 @@ module.exports = [
     bio: "Site Reliability Engineer, Walmart",
     avatar: "chadballay.jpg",
     story:
-      'Fresh out of college, I interviewed and ultimately wasn\'t hired for position working in Walmart\'s call center.  The feedback I was given that they felt I wasn\'t suited for a tech support role.  After a year of trying a career change into teaching high school math, I reinterviewed and was hired as a developer.  Don\'t let a single interviewer\'s bad feedback mar your self confidence.',
+        'Fresh out of college, I interviewed and ultimately wasn\'t hired for position working in Walmart\'s call center.  The feedback I was given that they felt I wasn\'t suited for a tech support role.  After a year of trying a career change into teaching high school math, I reinterviewed and was hired as a developer.  Don\'t let a single interviewer\'s bad feedback mar your self confidence.',
     double: false
   },
   {
@@ -822,7 +831,7 @@ module.exports = [
     bio: "Platform Engineer(SRE), PayPay, Tokyo JP",
     avatar: "karancode.jpg",
     story:
-    'In junior high got rejected for the coaching class I wanted to join, ended up being the topper from the other batch at the end of 2 years. Got rejected from the university I wanted to get in for engineering. In unviersity placements, got rejected for many companies like Morgan Stanely from the last rounds, ended up in multinational one of the most prestigious companies Rakuten, Inc. that came to the campus. At the time of job switch, got rejected from many finTech companies. Currently at Japan\'s largest & fastest growing Mobile Payments company PayPay! The simple solution to this chain of failures & rejections is the chain of continous efforts. Just believe in yourself & never give up!',
+        'In junior high got rejected for the coaching class I wanted to join, ended up being the topper from the other batch at the end of 2 years. Got rejected from the university I wanted to get in for engineering. In unviersity placements, got rejected for many companies like Morgan Stanely from the last rounds, ended up in multinational one of the most prestigious companies Rakuten, Inc. that came to the campus. At the time of job switch, got rejected from many finTech companies. Currently at Japan\'s largest & fastest growing Mobile Payments company PayPay! The simple solution to this chain of failures & rejections is the chain of continous efforts. Just believe in yourself & never give up!',
     double: false
   }
 ];
