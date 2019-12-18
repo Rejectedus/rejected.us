@@ -824,5 +824,15 @@ module.exports = [
     story:
     'In junior high got rejected for the coaching class I wanted to join, ended up being the topper from the other batch at the end of 2 years. Got rejected from the university I wanted to get in for engineering. In unviersity placements, got rejected for many companies like Morgan Stanely from the last rounds, ended up in multinational one of the most prestigious companies Rakuten, Inc. that came to the campus. At the time of job switch, got rejected from many finTech companies. Currently at Japan\'s largest & fastest growing Mobile Payments company PayPay! The simple solution to this chain of failures & rejections is the chain of continous efforts. Just believe in yourself & never give up!',
     double: false
+  },
+  {
+    fullName: "Vincenzo Chianese",
+    handle: "d3dvincent",
+    website: "https://vncz.codes",
+    bio: "Eng. Team Leader, Stoplight, Austin TX",
+    avatar: "vncz.jpg",
+    story:
+    'I got rejected by Google and Twitter. Now I am periodically turning down their offers.',
+    double: false
   }
 ];
