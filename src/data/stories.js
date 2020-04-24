@@ -824,5 +824,14 @@ module.exports = [
     story:
     'In junior high got rejected for the coaching class I wanted to join, ended up being the topper from the other batch at the end of 2 years. Got rejected from the university I wanted to get in for engineering. In unviersity placements, got rejected for many companies like Morgan Stanely from the last rounds, ended up in multinational one of the most prestigious companies Rakuten, Inc. that came to the campus. At the time of job switch, got rejected from many finTech companies. Currently at Japan\'s largest & fastest growing Mobile Payments company PayPay! The simple solution to this chain of failures & rejections is the chain of continous efforts. Just believe in yourself & never give up!',
     double: false
-  }
+  },
+  {
+    fullName: "Advitya Gemawat",
+    handle: "agemawat",
+    website: "https://www.linkedin.com/in/agemawat/",
+    bio: "Data Science @ UCSD, Former Data Scientist & ML Engineer Intern at Fortune 100 companies",
+    avatar: "advitya_gemawat.jpg",
+    story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad. Your failures don't define you. Do not give up.",
+    double: true
+},
 ];
