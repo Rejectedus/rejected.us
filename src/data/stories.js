@@ -830,9 +830,9 @@ module.exports = [
     handle: "d3dvincent",
     website: "https://vncz.codes",
     bio: "Eng. Team Leader, Stoplight, Austin TX",
-    avatar: "vncz.jpg",
+    avatar: "vncz.jpeg",
     story:
-    'I got rejected by Google and Twitter. Now I am periodically turning down their offers.',
+    'I got rejected by Google and Twitter. Now I am the one periodically turning down their offers.',
     double: false
   },
   {
