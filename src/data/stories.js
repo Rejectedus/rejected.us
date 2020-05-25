@@ -834,5 +834,14 @@ module.exports = [
     story:
     'I got rejected by Google and Twitter. Now I am periodically turning down their offers.',
     double: false
+  },
+  {
+    fullName: "Advitya Gemawat",
+    handle: "agemawat",
+    website: "https://www.linkedin.com/in/agemawat/",
+    bio: "Data Science @ UCSD, Former Data Scientist & ML Engineer Intern at Fortune 100 companies",
+    avatar: "advitya_gemawat.jpg",
+    story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad. Your failures don't define you. Do not give up.",
+    double: true
   }
 ];
