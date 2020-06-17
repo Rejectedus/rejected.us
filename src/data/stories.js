@@ -834,4 +834,13 @@ module.exports = [
     story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad. Your failures don't define you. Do not give up.",
     double: true
 },
+  {
+    fullName: "Andrei Martins",
+    handle: "92amartins",
+    website: "https://twitter.com/92amartins",
+    bio: "Data Scientist @ Magazine Luiza (Large Brazilian Retailer)",
+    avatar: "92amartins.jpg",
+    story: "In 2016, I applied for a job at Netshoes. They rejected me without an interview, just by looking at my resumé. Next year, I got a job at Magazine Luiza. In 2019, Magazine Luiza acquired Netshoes. We're now happy peers.",
+    double: false
+  },
 ];
