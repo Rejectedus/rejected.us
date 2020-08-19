@@ -833,5 +833,14 @@ module.exports = [
     avatar: "advitya_gemawat.jpg",
     story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad. Your failures don't define you. Do not give up.",
     double: true
-},
+  },
+	{
+		fullName: "Drew Pearce",
+		handle: "drewpearce",
+		website: "https://twitter.com/drewpearce",
+		bio: "Chatbot wrangler and full snack engineer for fun. Cloud platform engineer for a living.",
+		avatar: "drewpearce.jpg",
+		story: "One startup rejected me for a developer relations role because I didn't have enough dev experience. Another rejected me for a dev-centric support role because I failed a multiple choice Python exam. Within just a couple of months I moved into a cloud platform engineering role at my company. I write Python all day :grin:.",
+		double: false
+	},
 ];
