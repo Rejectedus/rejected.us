@@ -262,7 +262,7 @@ module.exports = [
     bio: "Microsoft",
     avatar: "jdalton.jpg",
     story:
-      "I was rejected by Google, Mozilla, and Twitter before being hired by Microsoft. No ragrets.",
+      "I was rejected by Google, Mozilla, and Twitter before being hired by Microsoft. No regrets.",
     double: false
   },
   {
