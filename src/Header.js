@@ -14,6 +14,9 @@ export default () => {
           </a>{" "}
           or tweet me at <a href="https://twitter.com/jkup">@jkup</a>
         </div>
+        <div>
+          Created by <a href="https://jonkuperman.com">Jon Kuperman</a>
+        </div>
       </div>
     </div>
   );
