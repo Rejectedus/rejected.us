@@ -826,6 +826,16 @@ module.exports = [
     double: false
   },
   {
+    fullName: "Vincenzo Chianese",
+    handle: "d3dvincent",
+    website: "https://vncz.codes",
+    bio: "Eng. Team Leader, Stoplight, Austin TX",
+    avatar: "vncz.jpeg",
+    story:
+    'I got rejected by Google and Twitter. Now I am the one periodically turning down their offers.',
+    double: false
+  },
+  {
     fullName: "Advitya Gemawat",
     handle: "agemawat",
     website: "https://www.linkedin.com/in/agemawat/",
