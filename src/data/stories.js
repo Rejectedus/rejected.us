@@ -831,7 +831,7 @@ module.exports = [
     website: "https://www.linkedin.com/in/agemawat/",
     bio: "Data Science @ UCSD, Former Data Scientist & ML Engineer Intern at Fortune 100 companies",
     avatar: "advitya_gemawat.jpg",
-    story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad. Your failures don't define you. Do not give up.",
+    story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FAMANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad.\n Things were still far from perfect. I became one of the world's youngest contributors to an Apache project but the company where I worked refused to sponsor me as I am an international undergrad. It took me 9 months, 750+ applications, 30+ interviews, and countless rejections during COVID, and I got a ML Research Engineer position at their competitor and a FAMANG company. Your failures don't define you. Do not give up.",
     double: true
 },
 ];
