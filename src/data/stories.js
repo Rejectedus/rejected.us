@@ -831,7 +831,7 @@ module.exports = [
     website: "https://www.linkedin.com/in/agemawat/",
     bio: "Data Science @ UCSD, Former Data Scientist & ML Engineer Intern at Fortune 100 companies",
     avatar: "advitya_gemawat.jpg",
-    story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad. Your failures don't define you. Do not give up.",
+    story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FAMANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad.\n Things were still far from perfect. I became one of the world's youngest contributors to an Apache project but the company where I worked refused to sponsor me as I am an international undergrad. It took me 9 months, 750+ applications, 30+ interviews, and countless rejections during COVID, and I got a ML Research Engineer position at their competitor and a FAMANG company. Your failures don't define you. Do not give up.",
     double: true
   },
 	{
@@ -843,4 +843,13 @@ module.exports = [
 		story: "One startup rejected me for a developer relations role because I didn't have enough dev experience. Another rejected me for a dev-centric support role because I failed a multiple choice Python exam. Within just a couple of months I moved into a cloud platform engineering role at my company. I write Python all day :grin:.",
 		double: false
 	},
+  {
+    fullName: "Dipanshi Bansal",
+    handle: "Dipanshi23",
+    website: "https://www.linkedin.com/in/dipanshi-bansal-8b7934183/",
+    bio: "Upcoming Quantitative Research Intern at JP Morgan Chase, pre-final year Computer Science student",
+    avatar: "dipanshi_bansal.jpg",
+    story: "I kept trying and failing at various endeavors and today, I am content with where I am. My rejection story starts off from when I was applying for universities - I gave competitive exams and found myself scoring absurdly low. Had to take an year off to prepare again. I prepared well, was very optimisitic about my chances and yet - scored half of what I had been consistently scoring in practice tests. Despite all the demotivation, I prepared again in the remaining 2 months for another test and I have to thank my parents for their suppoort - I cracked that test and today study in one of the most prestigious engineering colleges in India in the best possible branch. Even in college, I have tried and failed. I tried for multiple hackathons and case challenges etc only to reach the final or pre-final round and lose. Always. I tried asking for referrals, even got to interview at a few companies like Amazon, Goldman Sachs - only to be rejected. But finally I got an offer from JPMC for a QR internship and I cannot be happier. It is not a role I had envisioned myself in, but maybe this role will lead me to a brighter future. But had I given up after all the failed coding tests, rejections faced in interviews, I probably would not have prepared as hard as I did for JPMC and today would not have that offer.",
+    double: false
+  },
 ];
