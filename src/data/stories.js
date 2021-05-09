@@ -844,6 +844,14 @@ module.exports = [
     story: "I cold messaged 600+ people on LinkedIn for referrals and got rejected from more than 40 positions consecutively with referrals in each, from multiple FAMANG companies and unknown start-ups at various stages of the interview process, before I secured a masters-level Data Scientist internship as an undergrad.\n Things were still far from perfect. I became one of the world's youngest contributors to an Apache project but the company where I worked refused to sponsor me as I am an international undergrad. It took me 9 months, 750+ applications, 30+ interviews, and countless rejections during COVID, and I got a ML Research Engineer position at their competitor and a FAMANG company. Your failures don't define you. Do not give up.",
     double: true
   },
+  {
+    fullName: "Andrei Martins",
+    handle: "92amartins",
+    website: "https://twitter.com/92amartins",
+    bio: "Data Scientist @ Magazine Luiza (Large Brazilian Retailer)",
+    avatar: "92amartins.jpg",
+    story: "In 2016, I applied for a job at Netshoes. They rejected me without an interview, just by looking at my resumé. Next year, I got a job at Magazine Luiza. In 2019, Magazine Luiza acquired Netshoes. We're now happy peers.",
+  },
 	{
 		fullName: "Drew Pearce",
 		handle: "drewpearce",
