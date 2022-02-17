@@ -1,6 +1,6 @@
 import React from "react";
 
-export default () => {
+export default function Header() {
   return (
     <div>
       <div className="app-header">
@@ -20,4 +20,4 @@ export default () => {
       </div>
     </div>
   );
-};
+}
