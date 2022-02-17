@@ -2,8 +2,8 @@ import React from "react";
 import Header from "./Header";
 import storiesData from "./data/stories.js";
 
-export default () => {
-  const stories = storiesData.map(story => {
+export default function App() {
+  const stories = storiesData.map((story) => {
     return (
       <div
         key={story.handle}
@@ -36,4 +36,4 @@ export default () => {
       <div className="App-style">{stories}</div>
     </div>
   );
-};
+}
